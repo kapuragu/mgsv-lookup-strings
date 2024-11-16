@@ -1,5 +1,6 @@
 
 All
+BreakSteelTower
 CarryHoneyBee
 Caution
 CautionDash
@@ -28,10 +29,12 @@ CurtainIn
 CurtainOut
 Dash
 Demo
+DisableStealthMode
 DropPoint
 Fire
 ForwardChangeSpeed
 HeliIdle
+Holdup
 Hovering
 JumpOnly
 JumpWalk
@@ -47,6 +50,9 @@ Normal
 OnBaseRoute
 OnTheHill
 OpenDoor
+Peep1
+Peep2
+Peep3
 PermitGettingOff
 PickUpHoneyBee
 PileBunker
@@ -71,6 +77,7 @@ SearchMissile
 SendMessage
 SetTargetSpeed
 SitInChair
+SleepOnSofa
 Snipe
 StairsDown
 StandIdle
@@ -80,6 +87,7 @@ SwitchRoute
 SyncRoute
 TakeHostageOutOfVehicle
 UseFlashLight
+UseFlashLightAlways
 UseSearchLight
 Vanish
 VehicleAntiPlayerFire
@@ -102,6 +110,8 @@ WalkerGearCautionDash
 WalkerGearCautionIdle
 WalkerGearCautionRun
 WalkerGearCautionWalk
+WalkerGearGetIn
+WalkerGearGetOut
 WalkerGearRelaxedIdle
 WalkerGearRelaxedRun
 WalkerGearRelaxedWalk
