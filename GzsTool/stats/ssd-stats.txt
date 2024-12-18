@@ -1,0 +1,4 @@
+Stats:
+unmatchedHashes    [ 6884/26579] - 25.90015%
+matchedHashes      [19695/26579] - 74.09985%
+collsionHashes     [    0/26579] - 0%
