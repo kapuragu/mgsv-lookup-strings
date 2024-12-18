@@ -1,0 +1,11 @@
+/Assets/sh/motion/SI_game/fani/bodies/bab0/bab0/bab0_m00_020
+/Assets/sh/motion/SI_game/fani/bodies/bab0/bab0/bab0_m00_030
+/Assets/sh/motion/SI_game/fani/bodies/bab0/bab0/bab0_m00_040
+/Assets/sh/motion/SI_game/fani/bodies/frz0/frz0/frz0_m00_010
+/Assets/sh/motion/SI_game/fani/bodies/frz0/frz0/frz0_m00_020
+/Assets/sh/motion/SI_game/fani/bodies/lte0/lte0/lte0_m00_010
+/Assets/sh/motion/SI_game/fani/bodies/lte0/lte0/lte0_m00_020
+/Assets/sh/motion/SI_game/fani/bodies/och0/och0/och0_m01_011
+/Assets/sh/motion/SI_game/fani/bodies/och0/och0/och0_m01_012
+/Assets/sh/motion/SI_game/fani/bodies/och0/och0/och0_m01_021
+/Assets/sh/motion/SI_game/fani/bodies/pab0/pab0/pab0_m00_010

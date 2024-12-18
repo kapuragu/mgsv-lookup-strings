@@ -1,0 +1,7 @@
+Stats:
+unmatchedHashes    [2099/6904] - 30.40267%
+matchedHashes      [4805/6904] - 69.59734%
+collsionHashes     [   0/6904] - 0%
+unmatchedStrings   [23945]
+Writing out files
+All done
