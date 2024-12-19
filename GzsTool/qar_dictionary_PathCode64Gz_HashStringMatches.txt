@@ -312,6 +312,7 @@
 1e4317469279 /Assets/tpp/chara/wss/Pictures/wss2_pack0_def_nrm
 1e4f71464bc5 /Assets/tpp/ui/Font/Font_KJP_PG_REG_32p_mb_blr_alp
 1e6f98994827 /Assets/tpp/environ/object/guantanamo/container/gntn_cntn002/sourceimages/gntn_cntn002_bd_srm
+1e7a0d025ec4 /Assets/tpp/ui/texture/map/gntn_photo_clp.6.ftexs
 1e8411566639 /Assets/tpp/environ/object/guantanamo/ground/gntn_grnd001/sourceimages/gntn_grnd001_lbm
 1e84cd0e65ee /Assets/tpp/ui/texture/Manual/steam/na/ita/game_manual05
 1e86abb12dc6 /Assets/tpp/ui/texture/Prestory/sys_prestory_7
@@ -1237,6 +1238,7 @@
 4e82d126939b /Assets/tpp/common_source/fmtr/terrain/guantanamo/cm_gntn_terr_soil001/sourceimages/cm_gntn_terr_soil001_srm
 4e84311757b3 /Assets/tpp/environ/object/old_mother_base/foundation/ombs_fndt001/sourceimages/ombs_fndt001_fd_bsm
 4e86b409ac9a /Assets/tpp/chara/paz/Pictures/paz_hair3_def_bsm_alp
+4eb7ab70819f /Assets/tpp/level/location/gntn/block_common/gntn_common_ter_nrm.6.ftexs
 4ec0a0c69910 /Assets/tpp/ui/texture/Terop/ita/terop_kaz_alp
 4ec29b40af23 /Assets/tpp/item/cct/Pictures/cct0_glas0_def_nrm
 4ecc1068cfff /Assets/tpp/mecha/uth/Pictures/uth1_main1_def_srm
@@ -2364,6 +2366,7 @@
 89751f577dbb /Assets/tpp/ui/texture/map/gntn_alp_x1_01
 8980b342063e /Assets/tpp/chara/rai/Pictures/rai0_hair0_def_bsm_alp
 8989fd264557 /Assets/tpp/level/all_load/gzStoryFlag
+8994b1d5d816 /Assets/tpp/level/location/gntn/block_common/gntn_common_ter_bsm.6.ftexs
 899510a0c630 /Assets/tpp/ui/ModelAsset/mb_common/Pictures/mb_cmn_tab_msn_out
 89a3fb46caef /Assets/tpp/mecha/uth/Pictures/uth0_rain0_cv0_c00_bsm
 89acd4448dce /Assets/tpp/pack/location/ombs/pack_common/ombs_common
@@ -3189,6 +3192,7 @@ b249a7bdae43 /Assets/tpp/ui/ModelAsset/hud_headmark/Pictures/hud_hdmrk_notice_ic
 b2553768822a /Assets/tpp/ui/texture/EquipIcon/ui_wp_hg02_v00_alp
 b25d3dd8b82d /Assets/tpp/mecha/wav/Pictures/wav0_main0_def_nrm
 b285528b6a35 /Assets/tpp/chara/rai/Pictures/rai0_jaw0_def_dtm
+b28651b8e151 /Assets/tpp/effect/vfx_pic/explosion/fx_expanm06_ks_alp_clp.6.ftexs
 b2883ddabc8e /Assets/tpp/effect/gr_pic/gr_rinipt01_iy_alp
 b295bbde18f8 /Assets/tpp/common_source/ui/common_texture/cm_ui_gauge_a_alp
 b299fd3df4d4 /Assets/tpp/level_asset/weapon/ParameterTables/BlastParameter
@@ -3754,6 +3758,7 @@ cfed8cb158cc /Tpp/Scripts/Characters/NewPlayer/PadOperations/PadTppNewPlayerClif
 cff3d6bac7cd /Assets/tpp/environ/object/old_mother_base/pipe/ombs_pipe002/sourceimages/ombs_pipe002_nrm
 d004bcce0cd4 /Assets/tpp/environ/object/guantanamo/fluorescent/gntn_flrs001/sourceimages/gntn_flrs001_nrm
 d00e7562a830 /Assets/tpp/common_source/mecha/glass/cm_glas0_bsm
+d021e32ec2e3 /Assets/tpp/level/location/gntn/block_common/gntn_common_ter_srm.6.ftexs
 d0298d35cc28 /Assets/tpp/common_source/environ/old_mother_base/cm_ombs_sttw001/sourceimages/cm_ombs_sttw001_vd_bsm
 d0373d9a7226 /Assets/tpp/pack/ui/subtitles/EngVoice/JpnText/e20020_subtitles
 d046c4108995 /Assets/tpp/weapon/hag/Pictures/hg01_main0_def_dtm

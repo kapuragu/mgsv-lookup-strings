@@ -1617,6 +1617,7 @@
 /Assets/tpp/effect/vfx_pic/explosion/fx_expanm02_iy_alp_clp
 /Assets/tpp/effect/vfx_pic/explosion/fx_expanm02_ks_alp_clp
 /Assets/tpp/effect/vfx_pic/explosion/fx_expanm06_ks_alp_clp
+/Assets/tpp/effect/vfx_pic/explosion/fx_expanm06_ks_alp_clp.6.ftexs
 /Assets/tpp/effect/vfx_pic/fire/fx_fir01_iy_alp_clp
 /Assets/tpp/effect/vfx_pic/fire/fx_firanm01_iy_alp_clp
 /Assets/tpp/effect/vfx_pic/fire/fx_firanm02_iy_alp_clp
@@ -3222,8 +3223,11 @@
 /Assets/tpp/level/location/gntn/block_common/gntn_common_sequence
 /Assets/tpp/level/location/gntn/block_common/gntn_common_stage
 /Assets/tpp/level/location/gntn/block_common/gntn_common_ter_bsm
+/Assets/tpp/level/location/gntn/block_common/gntn_common_ter_bsm.6.ftexs
 /Assets/tpp/level/location/gntn/block_common/gntn_common_ter_nrm
+/Assets/tpp/level/location/gntn/block_common/gntn_common_ter_nrm.6.ftexs
 /Assets/tpp/level/location/gntn/block_common/gntn_common_ter_srm
+/Assets/tpp/level/location/gntn/block_common/gntn_common_ter_srm.6.ftexs
 /Assets/tpp/level/location/gntn/block_common/gntn_vehicle_block_controller
 /Assets/tpp/level/location/gntn/block_mission/EnemyConversation_gntn
 /Assets/tpp/level/location/gntn/block_mission/gntn_common_packages
@@ -4217,6 +4221,7 @@
 /Assets/tpp/ui/texture/map/gntn_building/gntn_camp_omega_out_alp_clp
 /Assets/tpp/ui/texture/map/gntn_photo_alp_clp
 /Assets/tpp/ui/texture/map/gntn_photo_clp
+/Assets/tpp/ui/texture/map/gntn_photo_clp.6.ftexs
 /Assets/tpp/ui/texture/map/gntn_photo_clp_nmp
 /Assets/tpp/ui/texture/Photo/gz/mb_photo_40_20010_010
 /Assets/tpp/ui/texture/Photo/gz/mb_photo_40_20010_010_1
