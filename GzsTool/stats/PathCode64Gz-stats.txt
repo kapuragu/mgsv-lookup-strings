@@ -1,4 +1,4 @@
 Stats:
-unmatchedHashes    [  29/4697] - 0.6174154%
-matchedHashes      [4668/4697] - 99.38258%
+unmatchedHashes    [  13/4697] - 0.2767724%
+matchedHashes      [4684/4697] - 99.72323%
 collsionHashes     [   0/4697] - 0%
