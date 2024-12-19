@@ -1,7 +1,4 @@
 Stats:
-unmatchedHashes    [ 528/3283] - 16.08285%
-matchedHashes      [2755/3283] - 83.91715%
+unmatchedHashes    [ 430/3283] - 13.09778%
+matchedHashes      [2853/3283] - 86.90223%
 collsionHashes     [   0/3283] - 0%
-unmatchedStrings   [26337]
-Writing out files
-All done
