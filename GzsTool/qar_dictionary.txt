@@ -3,6 +3,7 @@
 /Assets/fox/effect/gr_pic/lut/base16_FILTERLUT
 /Assets/fox/effect/gr_pic/lut/nv_and_thermal_16_FILTERLUT
 /Assets/fox/effect/gr_pic/material_params
+/Assets/fox/effect/gr_pic/material_params.fmtt
 /Assets/fox/effect/gr_pic/materials_alp_rgba32_nomip
 /Assets/fox/effect/gr_pic/materials_alp_rgba32_nomip_nrt
 /Assets/fox/effect/gr_pic/reflection_planes_nomip_rgba32
@@ -22343,6 +22344,7 @@
 /Assets/tpp/effect/vfx_pic/explosion/fx_expanm02_iy_alp_clp
 /Assets/tpp/effect/vfx_pic/explosion/fx_expanm02_ks_alp_clp
 /Assets/tpp/effect/vfx_pic/explosion/fx_expanm06_ks_alp_clp
+/Assets/tpp/effect/vfx_pic/explosion/fx_expanm06_ks_alp_clp.6.ftexs
 /Assets/tpp/effect/vfx_pic/fire/fx_fir01_iy_alp_clp
 /Assets/tpp/effect/vfx_pic/fire/fx_fir01_mk_alp_clp
 /Assets/tpp/effect/vfx_pic/fire/fx_fir02_iy_alp_clp
@@ -31966,12 +31968,19 @@
 /Assets/tpp/environ/superlow/mtbs/unique/uq0070/sourceimages/spl_mtbs_uq0070_nrm
 /Assets/tpp/environ/superlow/mtbs/unique/uq0070/sourceimages/spl_mtbs_uq0070_srm
 /Assets/tpp/font/arabia
+/Assets/tpp/font/arabia.ffnt
 /Assets/tpp/font/font_def_jp
+/Assets/tpp/font/font_def_jp.ffnt
 /Assets/tpp/font/font_def_ltn
+/Assets/tpp/font/font_def_ltn.ffnt
 /Assets/tpp/font/font_def_rus
+/Assets/tpp/font/font_def_rus.ffnt
 /Assets/tpp/font/KanjiFont
+/Assets/tpp/font/KanjiFont.ffnt
 /Assets/tpp/font/LatinFont
+/Assets/tpp/font/LatinFont.ffnt
 /Assets/tpp/font/russian
+/Assets/tpp/font/russian.ffnt
 /Assets/tpp/item/alm/Pictures/alm0_main0_def_c00_bsm
 /Assets/tpp/item/alm/Pictures/alm0_main0_def_nrm
 /Assets/tpp/item/alm/Pictures/alm0_main0_def_srm
@@ -32537,8 +32546,11 @@
 /Assets/tpp/level/location/gntn/block_common/gntn_common_sequence
 /Assets/tpp/level/location/gntn/block_common/gntn_common_stage
 /Assets/tpp/level/location/gntn/block_common/gntn_common_ter_bsm
+/Assets/tpp/level/location/gntn/block_common/gntn_common_ter_bsm.6.ftexs
 /Assets/tpp/level/location/gntn/block_common/gntn_common_ter_nrm
+/Assets/tpp/level/location/gntn/block_common/gntn_common_ter_nrm.6.ftexs
 /Assets/tpp/level/location/gntn/block_common/gntn_common_ter_srm
+/Assets/tpp/level/location/gntn/block_common/gntn_common_ter_srm.6.ftexs
 /Assets/tpp/level/location/gntn/block_common/gntn_vehicle_block_controller
 /Assets/tpp/level/location/gntn/block_mission/EnemyConversation_gntn
 /Assets/tpp/level/location/gntn/block_mission/gntn_common_packages
@@ -32936,6 +32948,7 @@
 /Assets/tpp/mecha/plv/Pictures/plv0_tire0_def_c00_bsm
 /Assets/tpp/mecha/plv/Pictures/plv0_tire0_def_nrm
 /Assets/tpp/mecha/plv/Pictures/plv0_tire0_def_srm
+/Assets/tpp/mecha/plv/ProgramData/plv.vpc
 /Assets/tpp/mecha/sad/Pictures/sad0_main0_def_c00_bsm
 /Assets/tpp/mecha/sad/Pictures/sad0_main0_def_lbm
 /Assets/tpp/mecha/sad/Pictures/sad0_main0_def_lym
@@ -33032,6 +33045,7 @@
 /Assets/tpp/mecha/smt/Pictures/smt0_tire0_def_lbm
 /Assets/tpp/mecha/smt/Pictures/smt0_tire0_def_nrm
 /Assets/tpp/mecha/smt/Pictures/smt0_tire0_def_srm
+/Assets/tpp/mecha/smt/ProgramData/easternSmt.vpc
 /Assets/tpp/mecha/the/Pictures/the0_intr0_def_c00_bsm
 /Assets/tpp/mecha/the/Pictures/the0_intr0_def_nrm
 /Assets/tpp/mecha/the/Pictures/the0_intr0_def_srm
@@ -33252,6 +33266,7 @@
 /Assets/tpp/mecha/wav/Pictures/wav1_turt0_def_lbm
 /Assets/tpp/mecha/wav/Pictures/wav1_turt0_def_nrm
 /Assets/tpp/mecha/wav/Pictures/wav1_turt0_def_srm
+/Assets/tpp/mecha/wav/ProgramData/wav.vpc
 /Assets/tpp/mecha/whc/Pictures/whc0_main0_def_c00_bsm
 /Assets/tpp/mecha/whc/Pictures/whc0_main0_def_c01_bsm
 /Assets/tpp/mecha/whc/Pictures/whc0_main0_def_mtm
@@ -50304,6 +50319,7 @@
 /Assets/tpp/sound/asset/env_mtbs_common
 /Assets/tpp/sound/asset/gz_endroll
 /Assets/tpp/sound/asset/Init
+/Assets/tpp/sound/asset/Init.bnk
 /Assets/tpp/sound/asset/p11_010100
 /Assets/tpp/sound/asset/p11_010110
 /Assets/tpp/sound/asset/p11_010115
@@ -54005,6 +54021,7 @@
 /Assets/tpp/ui/texture/map/gntn_photo_alp_clp
 /Assets/tpp/ui/texture/map/gntn_photo_clp
 /Assets/tpp/ui/texture/map/gntn_photo_clp_nmp
+/Assets/tpp/ui/texture/map/gntn_photo_clp.6.ftexs
 /Assets/tpp/ui/texture/map/map_afgh/afgh_height_b_clp_alp
 /Assets/tpp/ui/texture/map/map_afgh/afgh_height_c_clp_alp
 /Assets/tpp/ui/texture/map/map_afgh/afgh_height_clp
@@ -59899,12 +59916,16 @@
 /init
 /key
 /shaders/dx11/FxShaders_dx11
+/shaders/dx11/FxShaders_dx11.fsop
 /shaders/dx11/FxShadersNoLnm_dx11
 /shaders/dx11/GrModelShaders_dx11
+/shaders/dx11/GrModelShaders_dx11.fsop
 /shaders/dx11/GrModelShadersNoLnm_dx11
 /shaders/dx11/GrSystemShaders_dx11
+/shaders/dx11/GrSystemShaders_dx11.fsop
 /shaders/dx11/GrSystemShadersNoLnm_dx11
 /shaders/dx11/TppShaders_dx11
+/shaders/dx11/TppShaders_dx11.fsop
 /shaders/dx11/TppShadersNoLnm_dx11
 /shaders/ps3/FxShaders_ps3
 /shaders/ps3/FxShadersNoLnm_ps3
