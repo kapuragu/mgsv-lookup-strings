@@ -20959,6 +20959,7 @@
 /Assets/tpp/common_source/environ/mother_base/cm_mtbs_wall021/sourceimages/cm_mtbs_wall021_vg_c06_bsm
 /Assets/tpp/common_source/environ/mother_base/cm_mtbs_wall021/sourceimages/cm_mtbs_wall021_vg_c07_bsm
 /Assets/tpp/common_source/environ/mother_base/cm_mtbs_wall021/sourceimages/cm_mtbs_wall021_vg_c08_bsm
+/Assets/tpp/common_source/environ/mother_base/cm_mtbs_wall021/sourceimages/cm_mtbs_wall021_vg_c09_bsm
 /Assets/tpp/common_source/environ/mother_base/cm_mtbs_wall021/sourceimages/cm_mtbs_wall021_vg_c10_bsm
 /Assets/tpp/common_source/environ/mother_base/cm_mtbs_wall021/sourceimages/cm_mtbs_wall021_vg_c11_bsm
 /Assets/tpp/common_source/environ/mother_base/cm_mtbs_wall021/sourceimages/cm_mtbs_wall021_vg_c12_bsm
@@ -21904,6 +21905,7 @@
 /Assets/tpp/common_source/layer/cm_camo4_c63_lym
 /Assets/tpp/common_source/layer/cm_camo4_c64_lym
 /Assets/tpp/common_source/layer/cm_camo4_c65_lym
+/Assets/tpp/common_source/layer/cm_camo4_c66_lym
 /Assets/tpp/common_source/layer/cm_camo4_c67_lym
 /Assets/tpp/common_source/layer/cm_camo4_c68_lym
 /Assets/tpp/common_source/layer/cm_camo4_c69_lym
