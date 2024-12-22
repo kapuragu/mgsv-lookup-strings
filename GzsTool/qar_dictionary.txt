@@ -23174,6 +23174,7 @@
 /Assets/tpp/effect/vfx_pic/flash/fx_fls01_iy_alp
 /Assets/tpp/effect/vfx_pic/flash/fx_fls02_iy_alp
 /Assets/tpp/effect/vfx_pic/flash/fx_fls03_iy_alp_clp
+/Assets/tpp/effect/vfx_pic/item/fx_itmsld02_th_alp_clp
 /Assets/tpp/effect/vfx_pic/mark/fx_mrkexc01_iy_alp_clp
 /Assets/tpp/effect/vfx_pic/mark/fx_mrkfot01_iy_alp_clp
 /Assets/tpp/effect/vfx_pic/mark/fx_mrkfot01_iy_nrm_clp
@@ -23235,6 +23236,7 @@
 /Assets/tpp/effect/vfx_pic/smoke/fx_smkplr04_ks_alp_clp
 /Assets/tpp/effect/vfx_pic/smoke/fx_smkplr05_ks_alp_clp
 /Assets/tpp/effect/vfx_pic/smoke/fx_smkplr06_ks_alp_clp
+/Assets/tpp/effect/vfx_pic/smoke/fx_smkrnganm08_su_alp_clp
 /Assets/tpp/effect/vfx_pic/smoke/fx_smktbc01_iy
 /Assets/tpp/effect/vfx_pic/smoke/fx_smktbc01_iy_alp
 /Assets/tpp/effect/vfx_pic/smoke/fx_smktbc03_iy_alp
@@ -52299,6 +52301,7 @@
 /Assets/tpp/ui/ModelAsset/tpp_common/Pictures/bg_grd
 /Assets/tpp/ui/ModelAsset/tpp_common/Pictures/bg_grd_alp
 /Assets/tpp/ui/ModelAsset/tpp_common/Pictures/drumrecord_base_mask
+/Assets/tpp/ui/ModelAsset/tpp_common/Pictures/mark_equip_tag_2_alp
 /Assets/tpp/ui/ModelAsset/tpp_common/Pictures/mark_equip_tag_alp
 /Assets/tpp/ui/ModelAsset/tpp_common/Pictures/mark_reward
 /Assets/tpp/ui/ModelAsset/tpp_common/Pictures/unitinfo_staffline
@@ -58268,12 +58271,14 @@
 /Assets/tpp/ui/texture/Terop/spa/terop_paz_alp
 /Assets/tpp/ui/texture/Terop/spa/terop_sna_alp
 /Assets/tpp/ui/texture/Terop/spa/terop_wps_alp
+/Assets/tpp/ui/texture/Terop/terop_fiction_cht_alp_nmp
 /Assets/tpp/ui/texture/Terop/terop_fiction_de_alp_nmp
 /Assets/tpp/ui/texture/Terop/terop_fiction_en_alp_nmp
 /Assets/tpp/ui/texture/Terop/terop_fiction_es_alp_nmp
 /Assets/tpp/ui/texture/Terop/terop_fiction_fr_alp_nmp
 /Assets/tpp/ui/texture/Terop/terop_fiction_it_alp_nmp
 /Assets/tpp/ui/texture/Terop/terop_fiction_ja_alp_nmp
+/Assets/tpp/ui/texture/Terop/terop_fiction_kor_alp_nmp
 /Assets/tpp/ui/texture/Terop/terop_fiction_pt_alp_nmp
 /Assets/tpp/ui/texture/Terop/terop_fiction_ru_alp_nmp
 /Assets/tpp/ui/texture/WeaponPartsIcon/barrel/ui_wpp_ar02_barl0_def_alp
