@@ -58669,6 +58669,8 @@
 /Assets/tpp/weapon/put/Pictures/pt07_main4_def_c00_bsm
 /Assets/tpp/weapon/put/Pictures/pt07_main4_def_nrm
 /Assets/tpp/weapon/put/Pictures/pt07_main4_def_srm
+/Assets/tpp/weapon/put/Pictures/pt20_main0_def_nrm
+/Assets/tpp/weapon/put/Pictures/pt20_main0_def_srm
 /Assets/tpp/weapon/sas/Pictures/ss00_main0_cam_c00_bsm
 /Assets/tpp/weapon/sas/Pictures/ss00_main0_cam_lbm
 /Assets/tpp/weapon/sas/Pictures/ss00_main0_cam_srm
