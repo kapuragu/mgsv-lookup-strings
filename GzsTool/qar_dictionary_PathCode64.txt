@@ -408,6 +408,12 @@
 /Assets/mgo/pack/location/afda/pack_common/afda_common
 /Assets/mgo/pack/location/afda/pack_dynamic/attack/dynamic_attack_afda_config1
 /Assets/mgo/pack/location/afda/pack_dynamic/attack/dynamic_attack_afda_config2
+/Assets/mgo/pack/location/afda/pack_dynamic/attack/dynamic_attack_afda_docs1
+/Assets/mgo/pack/location/afda/pack_dynamic/attack/dynamic_attack_afda_docs2
+/Assets/mgo/pack/location/afda/pack_dynamic/attack/dynamic_attack_afda_missile1
+/Assets/mgo/pack/location/afda/pack_dynamic/attack/dynamic_attack_afda_missile2
+/Assets/mgo/pack/location/afda/pack_dynamic/attack/dynamic_attack_afda_terminal1
+/Assets/mgo/pack/location/afda/pack_dynamic/attack/dynamic_attack_afda_terminal2
 /Assets/mgo/pack/location/afda/pack_dynamic/deathmatch/dynamic_tdm_afda_01
 /Assets/mgo/pack/location/afda/pack_dynamic/deathmatch/dynamic_tdmb_afda_02
 /Assets/mgo/pack/location/afda/pack_dynamic/domination/dynamic_dom_afda_01
@@ -478,6 +484,9 @@
 /Assets/mgo/pack/location/afn0/pack_common/afn0_common
 /Assets/mgo/pack/location/afn0/pack_dynamic/attack/dynamic_attack_afn0_config1
 /Assets/mgo/pack/location/afn0/pack_dynamic/attack/dynamic_attack_afn0_config2
+/Assets/mgo/pack/location/afn0/pack_dynamic/attack/dynamic_attack_afn0_docs1
+/Assets/mgo/pack/location/afn0/pack_dynamic/attack/dynamic_attack_afn0_docs2
+/Assets/mgo/pack/location/afn0/pack_dynamic/attack/dynamic_attack_afn0_docs3
 /Assets/mgo/pack/location/afn0/pack_dynamic/deathmatch/dynamic_tdm_afn0_01
 /Assets/mgo/pack/location/afn0/pack_dynamic/deathmatch/dynamic_tdmb_afn0_01
 /Assets/mgo/pack/location/afn0/pack_dynamic/domination/dynamic_dom_afn0_01
