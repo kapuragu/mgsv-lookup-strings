@@ -1,7 +1,12 @@
+Stats:
+unmatchedHashes    [  388/30930] - 1.254446%
+matchedHashes      [30542/30930] - 98.74555%
+collsionHashes     [    0/30930] - 0%
+
 D:\GitHub\mgsv-lookup-strings\subp\Dictionaries\GZ\SubTitleId.txt
 StrCode32
-unmatchedHashes    [ 361/3953] - 9.132305%
-matchedHashes      [3592/3953] - 90.8677%
+unmatchedHashes    [  10/3953] - 0.2529724%
+matchedHashes      [3943/3953] - 99.74703%
 
 D:\GitHub\mgsv-lookup-strings\subp\Dictionaries\PT\SubTitleId.txt
 StrCode32
@@ -15,6 +20,5 @@ matchedHashes      [6543/6904] - 94.77115%
 
 D:\GitHub\mgsv-lookup-strings\subp\Dictionaries\TPP\SubTitleId.txt
 StrCode32
-unmatchedHashes    [   18/24306] - 0.07405579%
-matchedHashes      [24288/24306] - 99.92595%
-
+unmatchedHashes    [   17/24306] - 0.06994158%
+matchedHashes      [24289/24306] - 99.93006%
