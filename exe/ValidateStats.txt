@@ -1,0 +1,5 @@
+Stats:
+unmatchedHashes    [  79/1505] - 5.249169%
+matchedHashes      [1426/1505] - 94.75082%
+collsionHashes     [   0/1505] - 0%
+unmatchedStrings   [   0]

@@ -1,0 +1,12 @@
+﻿{
+  "inputHashesPath": "",
+  "inputStringsPath": "",
+  "funcType": "StrCode64Hex",
+  "tryVariations": false,
+  "tryExtensions": false,
+  "hashesToHex": false,
+  "validateMode": false,
+  "validateRoot": "",
+  "matchedStringsNameIsDictionary": false,
+  "buildToolDictionaries": false
+}
