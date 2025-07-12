@@ -1,4 +1,3 @@
-
 acceptMissionId
 AfterBreakingTunnel
 afterBreakTank_reloadCount
@@ -6,6 +5,7 @@ alarmCount
 antnBreakStartCount
 areaTrapIndex
 AttackParaUnitCount
+blockStep
 BonusEnemyKill
 bossDyingNum
 bossSequenceNum
@@ -83,6 +83,7 @@ CountTaskList03Num
 CountTaskList04Num
 CountTaskList05Num
 CountTaskList06Num
+dayCount
 DayCount
 deadCase05Num
 deadCase06Num
@@ -195,6 +196,8 @@ eventSequenceIndex
 eventSequenceNum
 executeRouteName_C
 executeRouteName_S
+<expression>
+fakeHostageMarkedCount
 filmCasePattern
 firstArrivedDriverGameObjectId
 firstTargetDriverGameObjectId
@@ -313,11 +316,13 @@ HostageTalkCount
 idHueyRideVehicle
 infoCount
 inInGateBefore
+initialPlayerAction
 intelAreaTrapIndex
 interCount_driver
 interCount_executioner_remnants
 interCount_executioner_tent
 interCount_guard
+interpreterInterrogationCount
 InterrogateCount
 is9yearsRadioPlay
 isAarClear
@@ -701,6 +706,7 @@ isInFlowStation
 isInfo
 isInsideVIPRoom
 isInterpreterRecognized
+isInterpreterRescued
 isInTunnel
 isInTunnelAfter
 isInTunnelBefore
@@ -847,6 +853,7 @@ isPlayedAfterDeathFactory
 isPlayedFreeHeliRadio
 isPlayerInEV
 isPlayerInFightArea
+isPlayerInRoom
 isPlayerInTown
 isPlayerRideBuddy
 isPlayerRideHeliWithQ
@@ -1088,6 +1095,7 @@ isTargetFound
 isTargetFoundOnVehicle
 isTargetFulton
 isTargetGoSwampSouth
+isTargetInRoom
 isTargetInterrogation
 isTargetLaidHeli
 isTargetLockState
@@ -1226,6 +1234,7 @@ need_Timer_ChaseHostageFromCheckpoint
 need_Timer_HeliWaitingPoint
 need_Timer_HostageRunAway
 need_Timer_WaitingPoint
+nightCount
 numBlackOut
 numCheckDead
 numContainerRecovered
@@ -1324,6 +1333,26 @@ reserveCount_07
 reserveCount_08
 reserveCount_09
 reserveCount_10
+reservedBoolean0000
+reservedBoolean0001
+reservedBoolean0002
+reservedBoolean0003
+reservedBoolean0004
+reservedBoolean0005
+reservedBoolean0006
+reservedBoolean0007
+reservedBoolean0008
+reservedBoolean0009
+reservedNumber0000
+reservedNumber0001
+reservedNumber0002
+reservedNumber0003
+reservedNumber0004
+reservedNumber0005
+reservedNumber0006
+reservedNumber0007
+reservedNumber0008
+reservedNumber0009
 reserve_numberFlagFive
 reserve_numberFlagFour
 reserve_numberFlagOne
