@@ -1,1 +1,2 @@
 OpponentEmblem
+OpponentEmblem_S
