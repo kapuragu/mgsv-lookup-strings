@@ -19,17 +19,21 @@ bone,materials,meshGroup,texureType,unknown - individual output of specific hash
 FmdlTool\Dictionaries\ 
 bone,materials,meshGroup,texureType,unknown - matches of different sub types, not currently up to date but useful to get an idea of what the strings are.
 
+Stats:
+unmatchedHashes    [25047/45728] - 54.77388%
+matchedHashes      [20681/45728] - 45.22612%
+
 Stats TPP:
-unmatchedHashes    [16823/33544] - 50.15204%
-matchedHashes      [16721/33544] - 49.84796%
+unmatchedHashes    [16814/33544] - 50.12521%
+matchedHashes      [16730/33544] - 49.87479%
 
 Stats MGO:
 unmatchedHashes    [ 6982/12468] - 55.99936%
 matchedHashes      [ 5486/12468] - 44.00064%
 
 Stats SSD:
-unmatchedHashes    [14910/24790] - 60.14522%
-matchedHashes      [ 9880/24790] - 39.85478%
+unmatchedHashes    [14562/24348] - 59.80779%
+matchedHashes      [ 9786/24348] - 40.19221%
 
 Finding strings:
 Name hashes:
