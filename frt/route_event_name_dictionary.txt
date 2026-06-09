@@ -37,6 +37,7 @@ HeliIdle
 Holdup
 Hovering
 JumpOnly
+JumpRun
 JumpWalk
 Kill
 move
@@ -83,6 +84,7 @@ Snipe
 StairsDown
 StandIdle
 StandSearch
+StandWalk
 SupineSnipe
 SwitchRoute
 SyncRoute
