@@ -55,6 +55,7 @@ Peep1
 Peep2
 Peep3
 PeepLeft
+PeepRight
 PermitGettingOff
 PickUpHoneyBee
 PileBunker
