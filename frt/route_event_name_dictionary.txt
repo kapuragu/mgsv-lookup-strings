@@ -155,4 +155,3 @@ WalkerGearGetOut
 WalkerGearRelaxedIdle
 WalkerGearRelaxedRun
 WalkerGearRelaxedWalk
-WalkOnly
