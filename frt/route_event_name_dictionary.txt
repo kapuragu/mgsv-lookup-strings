@@ -57,6 +57,7 @@ Peep3
 PeepLeft
 PeepRight
 PermitGettingOff
+PermitToGetOff
 PickUpHoneyBee
 PileBunker
 PutDownHoneyBee
@@ -105,6 +106,7 @@ VehicleGetIn
 VehicleGetOff
 VehicleGetOut
 VehicleIdle
+VehicleKmPerHour
 VehicleMoveFast
 VehicleMoveNormal
 VehicleMoveSlow
