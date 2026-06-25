@@ -49949,6 +49949,11 @@
 /Assets/tpp/pack/player/avatar/body/plfova_dld0_main0_skin0_c02
 /Assets/tpp/pack/player/avatar/body/plfova_dld0_main0_skin0_c03
 /Assets/tpp/pack/player/avatar/body/plfova_dld0_main0_skin0_c04
+/Assets/tpp/pack/player/avatar/body/plfova_dlf0_main0_v00
+/Assets/tpp/pack/player/avatar/body/plfova_dlf0_main0_v01
+/Assets/tpp/pack/player/avatar/body/plfova_dlf0_main0_v02
+/Assets/tpp/pack/player/avatar/body/plfova_dlf0_main0_v03
+/Assets/tpp/pack/player/avatar/body/plfova_dlf0_main0_v04
 /Assets/tpp/pack/player/avatar/body/plfova_sna0_main0_skin0_c00
 /Assets/tpp/pack/player/avatar/body/plfova_sna0_main0_skin0_c01
 /Assets/tpp/pack/player/avatar/body/plfova_sna0_main0_skin0_c02
