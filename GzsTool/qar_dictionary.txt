@@ -728,6 +728,9 @@
 /Assets/mgo/chara/tec_suit/Pictures/tes1_main0_def_srm
 /Assets/mgo/chara/tec_suit/Pictures/tes1_main0_def_trm
 /Assets/mgo/chara/tec_suit/Pictures/tes1_parts_main0_def_bsm
+/Assets/mgo/chara/tec_suit/Pictures/tes1_parts_main0_def_mtm
+/Assets/mgo/chara/tec_suit/Pictures/tes1_parts_main0_def_nrm
+/Assets/mgo/chara/tec_suit/Pictures/tes1_parts_main0_def_srm
 /Assets/mgo/common_source/cubemap/environ/mgo_afc0/cm_mgoj_exdy001_cbm/sourceimages/cm_mgoj_exdy001_cbm
 /Assets/mgo/common_source/cubemap/environ/mgo_afc1/cm_mgoi_exdy001_cbm/sourceimages/cm_mgoi_exdy001_cbm
 /Assets/mgo/common_source/cubemap/environ/mgo_afc1/cm_mgoi_indy001_cbm/sourceimages/cm_mgoi_indy001_cbm
@@ -61056,6 +61059,8 @@
 /Assets/tpp/weapon/put/Pictures/pt01_main0_def_mtm
 /Assets/tpp/weapon/put/Pictures/pt01_main0_def_nrm
 /Assets/tpp/weapon/put/Pictures/pt01_main0_def_srm
+/Assets/tpp/weapon/put/Pictures/pt01_main1_def_c00_bsm
+/Assets/tpp/weapon/put/Pictures/pt01_main2_def_c00_bsm
 /Assets/tpp/weapon/put/Pictures/pt02_main0_def_c00_bsm
 /Assets/tpp/weapon/put/Pictures/pt02_main0_def_nrm
 /Assets/tpp/weapon/put/Pictures/pt02_main0_def_srm
@@ -61777,6 +61782,8 @@
 /Assets/tpp/weapon/sup/Pictures/su00_main1_def_c00_bsm
 /Assets/tpp/weapon/sup/Pictures/su00_main1_def_nrm
 /Assets/tpp/weapon/sup/Pictures/su00_main1_def_srm
+/Assets/tpp/weapon/sup/Pictures/su00_main2_def_c00_bsm
+/Assets/tpp/weapon/sup/Pictures/su00_main2_def_srm
 /Assets/tpp/weapon/sup/Pictures/su01_main0_def_c00_bsm
 /Assets/tpp/weapon/sup/Pictures/su01_main0_def_nrm
 /Assets/tpp/weapon/sup/Pictures/su01_main0_def_srm
