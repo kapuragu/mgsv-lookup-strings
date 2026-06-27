@@ -52858,6 +52858,7 @@
 /Assets/tpp/ui/ModelAsset/nameentry/Pictures/nameentry_bg_mask_circle_b
 /Assets/tpp/ui/ModelAsset/nameentry/Pictures/nameentry_deco_a_alp
 /Assets/tpp/ui/ModelAsset/prefab_common/Pictures/prefab_cm_guide
+/Assets/tpp/ui/ModelAsset/result/Pictures/result_bg_event
 /Assets/tpp/ui/ModelAsset/result/Pictures/result_bg_fobdamage
 /Assets/tpp/ui/ModelAsset/result/Pictures/result_bg_fobreward
 /Assets/tpp/ui/ModelAsset/result/Pictures/result_bg_fobreward_2
