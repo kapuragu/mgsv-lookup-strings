@@ -18039,6 +18039,9 @@
 /Assets/tpp/common_source/chara/human/Pictures/cm_iris7_c01_bsm
 /Assets/tpp/common_source/chara/human/Pictures/cm_lash_v00_bsm_alp
 /Assets/tpp/common_source/chara/human/Pictures/cm_main0_dtm
+/Assets/tpp/common_source/chara/human/Pictures/cm_mout0_avt_c00_bsm
+/Assets/tpp/common_source/chara/human/Pictures/cm_mout0_avt_nrm
+/Assets/tpp/common_source/chara/human/Pictures/cm_mout0_avt_srm
 /Assets/tpp/common_source/chara/human/Pictures/cm_mout0_hig_c00_bsm
 /Assets/tpp/common_source/chara/human/Pictures/cm_mout0_hig_nrm
 /Assets/tpp/common_source/chara/human/Pictures/cm_mout0_hig_srm
