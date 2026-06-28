@@ -756,6 +756,11 @@
 /Assets/mgo/item/dis/Pictures/dis0_main0_def_bsm
 /Assets/mgo/item/dis/Pictures/dis0_main0_def_nrm
 /Assets/mgo/item/dis/Pictures/dis0_main0_def_srm
+/Assets/mgo/item/ful/Pictures/flu0_ball0_def_c01_bsm
+/Assets/mgo/item/ful/Pictures/flu0_ball0_def_c02_bsm
+/Assets/mgo/item/wor/Pictures/wor0_main0_def_bsm
+/Assets/mgo/item/wor/Pictures/wor0_main0_def_nrm
+/Assets/mgo/item/wor/Pictures/wor0_main0_def_srm
 /Assets/mgo/level_asset/config/EquipConfig
 /Assets/mgo/level_asset/config/GearConfig
 /Assets/mgo/level_asset/config/MgoWeaponParameters
@@ -2989,6 +2994,9 @@
 /Assets/mgo/weapon/onw/Pictures/sr01_owep1_def_nrm
 /Assets/mgo/weapon/onw/Pictures/sr01_owep1_def_srm
 /Assets/mgo/weapon/sld/Pictures/sd01_main0_def_c00_bsm
+/Assets/mgo/weapon/tag/Pictures/tag0_main0_def_bsm
+/Assets/mgo/weapon/tag/Pictures/tag0_main0_def_nrm
+/Assets/mgo/weapon/tag/Pictures/tag0_main0_def_srm
 /Assets/sh/chara/bab/Pictures/bab0_main0_def_bsm_alp
 /Assets/sh/chara/bab/Pictures/bab0_main0_def_hgm
 /Assets/sh/chara/bab/Pictures/bab0_main0_def_ils
