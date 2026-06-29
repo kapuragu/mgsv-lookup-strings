@@ -61108,6 +61108,8 @@
 /Assets/tpp/weapon/put/Pictures/pt07_main4_def_srm
 /Assets/tpp/weapon/put/Pictures/pt20_main0_def_nrm
 /Assets/tpp/weapon/put/Pictures/pt20_main0_def_srm
+/Assets/tpp/weapon/put/Pictures/pt20_main0_fob_c00_bsm
+/Assets/tpp/weapon/put/Pictures/pt20_main0_fob_c01_bsm
 /Assets/tpp/weapon/sas/Pictures/ss00_main0_cam_c00_bsm
 /Assets/tpp/weapon/sas/Pictures/ss00_main0_cam_lbm
 /Assets/tpp/weapon/sas/Pictures/ss00_main0_cam_srm
@@ -61585,6 +61587,9 @@
 /Assets/tpp/weapon/snr/Pictures/sr06_supp0_def_c00_bsm
 /Assets/tpp/weapon/snr/Pictures/sr06_supp0_def_nrm
 /Assets/tpp/weapon/snr/Pictures/sr06_supp0_def_srm
+/Assets/tpp/weapon/snr/Pictures/sr07_cstm0_fob_c00_bsm
+/Assets/tpp/weapon/snr/Pictures/sr07_cstm0_fob_nrm
+/Assets/tpp/weapon/snr/Pictures/sr07_cstm0_fob_srm
 /Assets/tpp/weapon/stk/Pictures/sk00_main0_cam_c00_bsm
 /Assets/tpp/weapon/stk/Pictures/sk00_main0_cam_lbm
 /Assets/tpp/weapon/stk/Pictures/sk00_main0_cam_srm
