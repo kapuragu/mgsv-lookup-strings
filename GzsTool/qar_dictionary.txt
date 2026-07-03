@@ -52710,6 +52710,7 @@
 /Assets/tpp/ui/ModelAsset/mb_challenge/Pictures/mb_challenge_arw
 /Assets/tpp/ui/ModelAsset/mb_challenge/Pictures/mb_challenge_eff_1
 /Assets/tpp/ui/ModelAsset/mb_challenge/Pictures/mb_challenge_eff_2
+/Assets/tpp/ui/ModelAsset/mb_challenge/Pictures/mb_challenge_flare
 /Assets/tpp/ui/ModelAsset/mb_combat_deployment/Pictures/mb_cb_dpt_mark_dd
 /Assets/tpp/ui/ModelAsset/mb_combat_deployment/Pictures/mb_cb_dpt_unit_1_alp
 /Assets/tpp/ui/ModelAsset/mb_combat_deployment/Pictures/mb_cb_dpt_unit_2_alp
