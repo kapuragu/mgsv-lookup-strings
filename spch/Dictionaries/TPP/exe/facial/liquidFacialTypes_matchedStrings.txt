@@ -1,0 +1,14 @@
+attack_a
+attack_b
+clench
+conch
+damage_h
+damage_l
+dazzle
+dead
+desperate
+faint
+grimace
+normal
+provoke
+sleep_lp

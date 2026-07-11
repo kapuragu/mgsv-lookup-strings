@@ -1,0 +1,16 @@
+combat
+damage_heavy
+damage_light
+dazzle
+dead
+faint
+nod
+normal
+sad
+sign
+sleep_lp
+smile
+sniping_p
+sniping_q
+surprise
+watch_sna
