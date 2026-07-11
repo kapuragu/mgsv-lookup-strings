@@ -103,6 +103,7 @@ RunOnly
 RunWalk
 Salute
 SaluteGreeting
+SaluteThank
 SearchMissile
 SendMessage
 SetTargetSpeed
