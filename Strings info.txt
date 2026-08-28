@@ -11,6 +11,7 @@ fmdlStrings_unique - from fmdltool fork with -outputshashes on GZ format fmdls, 
 gzFmdlTexturePaths,gzFmdlTexturePaths-noexts - generated from gz fmdl strings using ReconstructGZPaths
 scrape* - scrape of .xml files from FoxTool using scrapelangid.exe (needs a rename lol)
 Tpp_main_win64_words.txt - function names from debug exe split into words
+tpp-commands.txt - lua gameobject commands from https://mgsvmoddingwiki.github.io/Commands/
 
 Additional strings:
 unknowns process explorer dump of mgs survive beta
