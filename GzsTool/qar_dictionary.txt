@@ -593,6 +593,12 @@
 /Assets/mgo/chara/rec_head/Pictures/reh3_main0_def_srm
 /Assets/mgo/chara/rec_head/Pictures/reh3_main1_def_bsm
 /Assets/mgo/chara/rec_head/Pictures/reh3_main2_def_bsm
+/Assets/mgo/chara/rec_suit/Pictures/res0_face0_def_bsm
+/Assets/mgo/chara/rec_suit/Pictures/res0_face0_def_lbm
+/Assets/mgo/chara/rec_suit/Pictures/res0_face0_def_nrm
+/Assets/mgo/chara/rec_suit/Pictures/res0_face0_def_srm
+/Assets/mgo/chara/rec_suit/Pictures/res0_face1_def_bsm
+/Assets/mgo/chara/rec_suit/Pictures/res0_face2_def_bsm
 /Assets/mgo/chara/rec_suit/Pictures/res0_main0_def_bsm
 /Assets/mgo/chara/rec_suit/Pictures/res0_main0_def_lbm
 /Assets/mgo/chara/rec_suit/Pictures/res0_main0_def_mtm
@@ -666,6 +672,7 @@
 /Assets/mgo/chara/tec_cloth/Pictures/tcl1_main0_def_srm
 /Assets/mgo/chara/tec_cloth/Pictures/tcl1_main1_def_bsm
 /Assets/mgo/chara/tec_cloth/Pictures/tcl1_main2_def_bsm
+/Assets/mgo/chara/tec_head/Pictures/teh0_lens0_def_nrm
 /Assets/mgo/chara/tec_head/Pictures/teh0_main0_def_bsm
 /Assets/mgo/chara/tec_head/Pictures/teh0_main0_def_lbm
 /Assets/mgo/chara/tec_head/Pictures/teh0_main0_def_mtm
@@ -691,11 +698,13 @@
 /Assets/mgo/chara/tec_head/Pictures/teh3_main0_def_srm
 /Assets/mgo/chara/tec_head/Pictures/teh3_main1_def_bsm
 /Assets/mgo/chara/tec_head/Pictures/teh3_main2_def_bsm
+/Assets/mgo/chara/tec_head/Pictures/teh4_lens0_def_nrm
 /Assets/mgo/chara/tec_head/Pictures/teh4_main0_def_bsm
 /Assets/mgo/chara/tec_head/Pictures/teh4_main0_def_lbm
 /Assets/mgo/chara/tec_head/Pictures/teh4_main0_def_nrm
 /Assets/mgo/chara/tec_head/Pictures/teh4_main0_def_srm
 /Assets/mgo/chara/tec_suit/Pictures/tes0_helm0_def_bsm
+/Assets/mgo/chara/tec_suit/Pictures/tes0_helm0_def_mask
 /Assets/mgo/chara/tec_suit/Pictures/tes0_helm0_def_mtm
 /Assets/mgo/chara/tec_suit/Pictures/tes0_helm0_def_nrm
 /Assets/mgo/chara/tec_suit/Pictures/tes0_helm0_def_srm
@@ -703,6 +712,7 @@
 /Assets/mgo/chara/tec_suit/Pictures/tes0_helm2_def_bsm
 /Assets/mgo/chara/tec_suit/Pictures/tes0_main0_def_bsm
 /Assets/mgo/chara/tec_suit/Pictures/tes0_main0_def_bsm_f
+/Assets/mgo/chara/tec_suit/Pictures/tes0_main0_def_mask
 /Assets/mgo/chara/tec_suit/Pictures/tes0_main0_def_mtm
 /Assets/mgo/chara/tec_suit/Pictures/tes0_main0_def_nrm
 /Assets/mgo/chara/tec_suit/Pictures/tes0_main0_def_nrm_f
@@ -746,12 +756,38 @@
 /Assets/mgo/common_source/cubemap/environ/mgo_sortie_space/cm_mgos_ss001_cbm/sourceimages/cm_mgos_ss001_cbm
 /Assets/mgo/common_source/environ/mgo_afgh/cm_mgoa_wrtx001/sourceimages/cm_mgoa_wrtx001_bsm
 /Assets/mgo/common_source/environ/mgo_afgh/cm_mgoa_wrtx002/sourceimages/cm_mgoa_wrtx002_bsm
+/Assets/mgo/common_source/ui/common_texture/hud_CT_Flags_alp_clp
 /Assets/mgo/common_source/ui/common_texture/hud_CT_IconTag1_alp
 /Assets/mgo/common_source/ui/common_texture/hud_CT_IconTag2_alp
+/Assets/mgo/effect/vfx_pic/blood/fx_bldmrk02n_su_alp_clp
+/Assets/mgo/effect/vfx_pic/chara/fx_chrbee03_su_alp
+/Assets/mgo/effect/vfx_pic/chara/fx_chrcocanm01_su_alp_clp
+/Assets/mgo/effect/vfx_pic/chara/fx_chrfshanm01_su_alp_clp
+/Assets/mgo/effect/vfx_pic/chara/fx_chrlocanm01_su_alp_clp
+/Assets/mgo/effect/vfx_pic/chara/fx_chrmotanm01_su_alp_clp
+/Assets/mgo/effect/vfx_pic/cloud/fx_cldrolanm01_su_alp
 /Assets/mgo/effect/vfx_pic/cloud/fx_cldskyanm04_su_alp
+/Assets/mgo/effect/vfx_pic/dust/fx_dstfoganm02_su_alp_clp
+/Assets/mgo/effect/vfx_pic/flare/fx_flrmntlgt01_su_clp
+/Assets/mgo/effect/vfx_pic/flash/fx_flslsrtag01_su_alp_clp
+/Assets/mgo/effect/vfx_pic/mark/fx_mrkdoc01_su_clp
+/Assets/mgo/effect/vfx_pic/mark/fx_mrkexpgrd03_su_alp_clp
+/Assets/mgo/effect/vfx_pic/mark/fx_mrkhrt02_su_alp_clp
+/Assets/mgo/effect/vfx_pic/mark/fx_mrkset01a_iy_alp_clp
+/Assets/mgo/effect/vfx_pic/mark/fx_mrkslp01_su_alp_clp
+/Assets/mgo/effect/vfx_pic/mark/fx_mrkstr01_su_alp_clp
+/Assets/mgo/effect/vfx_pic/smoke/fx_smkrnganm08_su_alp_clp
+/Assets/mgo/effect/vfx_pic/smoke/fx_smkrolanm02_su_alp_clp
+/Assets/mgo/effect/vfx_pic/spark/fx_spkltb01m_su_alp_clp
+/Assets/mgo/effect/vfx_pic/spark/fx_spkltb06_su_alp
+/Assets/mgo/effect/vfx_pic/water/fx_frcfldsph01n_su_alp_clp
+/Assets/mgo/effect/vfx_pic/water/fx_wtrmstanm01l_su_alp_clp
 /Assets/mgo/environ/object/mgo_afgh/lamp/mgoa_lamp002/sourceimages/mgoa_lamp002_bsm
 /Assets/mgo/environ/object/mgo_afgh/lamp/mgoa_lamp002/sourceimages/mgoa_lamp002_nrm
 /Assets/mgo/environ/object/mgo_afgh/lamp/mgoa_lamp002/sourceimages/mgoa_lamp002_srm
+/Assets/mgo/environ/object/mgo_afgh/toolbox/mgoa_tlbx001/sourceimages/mgoa_tlbx001_bsm
+/Assets/mgo/environ/object/mgo_afgh/toolbox/mgoa_tlbx001/sourceimages/mgoa_tlbx001_nrm
+/Assets/mgo/environ/object/mgo_afgh/toolbox/mgoa_tlbx001/sourceimages/mgoa_tlbx001_srm
 /Assets/mgo/environ/object/mgo_afgh/toolbox/mgoa_tlbx001/sourceimages/mgoa_tlbx001_v1_bsm
 /Assets/mgo/item/dis/Pictures/dis0_main0_def_bsm
 /Assets/mgo/item/dis/Pictures/dis0_main0_def_nrm
@@ -801,6 +837,9 @@
 /Assets/mgo/level/location/cuba/block_common/cuba_common_terrain_bsm
 /Assets/mgo/level/location/cuba/block_common/cuba_common_terrain_nrm
 /Assets/mgo/level/location/cuba/block_common/cuba_common_terrain_srm
+/Assets/mgo/mecha/caw/Pictures/caw0_main0_def_c00_bsm
+/Assets/mgo/mecha/caw/Pictures/caw0_main0_def_nrm
+/Assets/mgo/mecha/caw/Pictures/caw0_main0_def_srm
 /Assets/mgo/pack/actor/actor_parts
 /Assets/mgo/pack/collectible/common/col_common_mgo
 /Assets/mgo/pack/location/afc0/afc0
@@ -2649,6 +2688,7 @@
 /Assets/mgo/ui/texture/EquipIcon/color/ts_title_10110_alp
 /Assets/mgo/ui/texture/EquipIcon/color/ts_title_10120_alp
 /Assets/mgo/ui/texture/EquipIcon/color/ts_title_10130_alp
+/Assets/mgo/ui/texture/EquipIcon/color/ts_title_10140_alp
 /Assets/mgo/ui/texture/EquipIcon/color/ts_title_10145_alp
 /Assets/mgo/ui/texture/EquipIcon/color/ts_title_10150_alp
 /Assets/mgo/ui/texture/EquipIcon/color/ts_title_10160_alp
@@ -2887,6 +2927,7 @@
 /Assets/mgo/ui/texture/map/sva0/sva0_clp
 /Assets/mgo/ui/texture/map/sva0/sva0_iDroid_clp
 /Assets/mgo/ui/texture/map/sva0/sva0_sat_clp
+/Assets/mgo/weapon/amo/Pictures/am12_main1_def_nrm
 /Assets/mgo/weapon/ftp/Pictures/ftp0_main0_def_bsm_alp
 /Assets/mgo/weapon/ftp/Pictures/ftp0_main0_def_nrm
 /Assets/mgo/weapon/ftp/Pictures/ftp0_main0_def_srm
@@ -14965,6 +15006,7 @@
 /Assets/tpp/chara/dct/Pictures/dct1_face0_def_nrm
 /Assets/tpp/chara/dct/Pictures/dct1_face0_def_srm
 /Assets/tpp/chara/dct/Pictures/dct1_face0_def_sub_nrm
+/Assets/tpp/chara/dct/Pictures/dct1_face0_def_sub_srm
 /Assets/tpp/chara/dct/Pictures/dct1_face0_def_trm
 /Assets/tpp/chara/dct/Pictures/dct1_face0_dmg_bsm
 /Assets/tpp/chara/dct/Pictures/dct1_face0_dmg_nrm
@@ -15294,6 +15336,7 @@
 /Assets/tpp/chara/dds/Pictures/dds3_main0_def_c18_bsm
 /Assets/tpp/chara/dds/Pictures/dds3_main0_def_c19_bsm
 /Assets/tpp/chara/dds/Pictures/dds3_main0_def_c20_bsm
+/Assets/tpp/chara/dds/Pictures/dds3_main0_def_c21_bsm
 /Assets/tpp/chara/dds/Pictures/dds3_main0_def_c22_bsm
 /Assets/tpp/chara/dds/Pictures/dds3_main0_def_c23_bsm
 /Assets/tpp/chara/dds/Pictures/dds3_main0_def_c24_bsm
@@ -15306,6 +15349,7 @@
 /Assets/tpp/chara/dds/Pictures/dds3_main0_def_c31_bsm
 /Assets/tpp/chara/dds/Pictures/dds3_main0_def_c32_bsm
 /Assets/tpp/chara/dds/Pictures/dds3_main0_def_c33_bsm
+/Assets/tpp/chara/dds/Pictures/dds3_main0_def_c34_bsm
 /Assets/tpp/chara/dds/Pictures/dds3_main0_def_c35_bsm
 /Assets/tpp/chara/dds/Pictures/dds3_main0_def_c36_bsm
 /Assets/tpp/chara/dds/Pictures/dds3_main0_def_c37_bsm
@@ -15409,6 +15453,21 @@
 /Assets/tpp/chara/dds/Pictures/dds9_eqip0_def_mtm
 /Assets/tpp/chara/dds/Pictures/dds9_eqip0_def_nrm
 /Assets/tpp/chara/dds/Pictures/dds9_eqip0_def_srm
+/Assets/tpp/chara/dds/Pictures/dds9_hand0_def_c00_bsm
+/Assets/tpp/chara/dds/Pictures/dds9_hand0_def_c01_bsm
+/Assets/tpp/chara/dds/Pictures/dds9_hand0_def_c02_bsm
+/Assets/tpp/chara/dds/Pictures/dds9_hand0_def_c03_bsm
+/Assets/tpp/chara/dds/Pictures/dds9_hand0_def_c04_bsm
+/Assets/tpp/chara/dds/Pictures/dds9_hand0_def_dtm
+/Assets/tpp/chara/dds/Pictures/dds9_hand0_def_nrm
+/Assets/tpp/chara/dds/Pictures/dds9_hand0_def_srm
+/Assets/tpp/chara/dds/Pictures/dds9_hand0_def_trm
+/Assets/tpp/chara/dds/Pictures/dds9_hand1_def_c00_bsm
+/Assets/tpp/chara/dds/Pictures/dds9_hand1_def_c01_bsm
+/Assets/tpp/chara/dds/Pictures/dds9_hand1_def_c02_bsm
+/Assets/tpp/chara/dds/Pictures/dds9_hand1_def_c03_bsm
+/Assets/tpp/chara/dds/Pictures/dds9_hand1_def_c04_bsm
+/Assets/tpp/chara/dds/Pictures/dds9_hand1_def_srm
 /Assets/tpp/chara/dla/Pictures/dla0_main0_def_bsm
 /Assets/tpp/chara/dla/Pictures/dla0_main0_def_dtm
 /Assets/tpp/chara/dla/Pictures/dla0_main0_def_nrm
@@ -15497,6 +15556,8 @@
 /Assets/tpp/chara/dle/Pictures/dle0_body0_def_c02_bsm
 /Assets/tpp/chara/dle/Pictures/dle0_body0_def_c03_bsm
 /Assets/tpp/chara/dle/Pictures/dle0_body0_def_c04_bsm
+/Assets/tpp/chara/dle/Pictures/dle0_card0_def_bsm
+/Assets/tpp/chara/dle/Pictures/dle0_card0_def_srm
 /Assets/tpp/chara/dle/Pictures/dle0_suit0_def_bsm
 /Assets/tpp/chara/dle/Pictures/dle0_suit0_def_dtm
 /Assets/tpp/chara/dle/Pictures/dle0_suit0_def_nrm
@@ -15808,6 +15869,7 @@
 /Assets/tpp/chara/hyu/Pictures/hyu0_face0_def_nrm
 /Assets/tpp/chara/hyu/Pictures/hyu0_face0_def_srm
 /Assets/tpp/chara/hyu/Pictures/hyu0_face0_def_sub_nrm
+/Assets/tpp/chara/hyu/Pictures/hyu0_face0_def_sub_srm
 /Assets/tpp/chara/hyu/Pictures/hyu0_face0_def_trm
 /Assets/tpp/chara/hyu/Pictures/hyu0_glas0_def_bsm
 /Assets/tpp/chara/hyu/Pictures/hyu0_glas0_def_nrm
@@ -15973,6 +16035,7 @@
 /Assets/tpp/chara/kaz/Pictures/kaz2_body1_def_dtm
 /Assets/tpp/chara/kaz/Pictures/kaz2_body1_def_nrm
 /Assets/tpp/chara/kaz/Pictures/kaz2_body1_def_srm
+/Assets/tpp/chara/kaz/Pictures/kaz2_body1_def_trm
 /Assets/tpp/chara/kaz/Pictures/kaz2_eqbd0_def_bsm
 /Assets/tpp/chara/kaz/Pictures/kaz2_eqbd0_def_hnm
 /Assets/tpp/chara/kaz/Pictures/kaz2_eqbd0_def_srm
@@ -16070,6 +16133,7 @@
 /Assets/tpp/chara/mnt/Pictures/mnt0_hair0_def_srm
 /Assets/tpp/chara/mnt/Pictures/mnt0_hair0_def_trm
 /Assets/tpp/chara/mnt/Pictures/mnt0_iris0_c01
+/Assets/tpp/chara/mnt/Pictures/mnt0_iris0_def_bsm
 /Assets/tpp/chara/mnt/Pictures/mnt0_jacp0_def_nrm
 /Assets/tpp/chara/mnt/Pictures/mnt0_jact0_def_bsm
 /Assets/tpp/chara/mnt/Pictures/mnt0_jact0_def_lbm
@@ -16116,6 +16180,7 @@
 /Assets/tpp/chara/nrs/Pictures/nrs0_item0_def_bsm
 /Assets/tpp/chara/nrs/Pictures/nrs0_item0_def_nrm
 /Assets/tpp/chara/nrs/Pictures/nrs0_item0_def_srm
+/Assets/tpp/chara/nrs/Pictures/nrs0_main0_def_bsm
 /Assets/tpp/chara/nrs/Pictures/nrs0_main0_def_c00_bsm
 /Assets/tpp/chara/nrs/Pictures/nrs0_main0_def_dtm
 /Assets/tpp/chara/nrs/Pictures/nrs0_main0_def_nrm
@@ -16146,6 +16211,7 @@
 /Assets/tpp/chara/nrs/Pictures/nrs2_face0_def_nrm
 /Assets/tpp/chara/nrs/Pictures/nrs2_face0_def_srm
 /Assets/tpp/chara/nrs/Pictures/nrs2_face0_def_sub_nrm
+/Assets/tpp/chara/nrs/Pictures/nrs2_face0_def_sub_srm
 /Assets/tpp/chara/nrs/Pictures/nrs2_face0_def_trm
 /Assets/tpp/chara/nrs/Pictures/nrs2_hair0_def_bsm_alp
 /Assets/tpp/chara/nrs/Pictures/nrs2_hair0_def_srm
@@ -16727,6 +16793,7 @@
 /Assets/tpp/chara/qui/Pictures/qui3_face1_blu_bsm
 /Assets/tpp/chara/qui/Pictures/qui3_face1_def_bsm
 /Assets/tpp/chara/qui/Pictures/qui3_face1_def_c02_bsm
+/Assets/tpp/chara/qui/Pictures/qui3_face1_def_hnm
 /Assets/tpp/chara/qui/Pictures/qui3_face1_def_srm
 /Assets/tpp/chara/qui/Pictures/qui3_face2_def_bsm
 /Assets/tpp/chara/qui/Pictures/qui3_face2_def_c01_bsm
@@ -17465,6 +17532,7 @@
 /Assets/tpp/chara/uss/Pictures/uss0_eqhn0_def_srm
 /Assets/tpp/chara/uss/Pictures/uss0_eqwp0_def_dtm
 /Assets/tpp/chara/uss/Pictures/uss0_face2_def_bsm
+/Assets/tpp/chara/uss/Pictures/uss0_hand0_def_amk
 /Assets/tpp/chara/uss/Pictures/uss0_hand0_def_bsm
 /Assets/tpp/chara/uss/Pictures/uss0_hand0_def_dtm
 /Assets/tpp/chara/uss/Pictures/uss0_hand0_def_nrm
@@ -18165,6 +18233,7 @@
 /Assets/tpp/common_source/environ/afghanistan/cm_afgh_clff002/sourceimages/cm_afgh_clff002_d1_srm
 /Assets/tpp/common_source/environ/afghanistan/cm_afgh_clff002/sourceimages/cm_afgh_clff002_srm
 /Assets/tpp/common_source/environ/afghanistan/cm_afgh_clff002/sourceimages/cm_afgh_clff002_v1_bsm
+/Assets/tpp/common_source/environ/afghanistan/cm_afgh_clff002/sourceimages/cm_afgh_clff002_v1_nrm
 /Assets/tpp/common_source/environ/afghanistan/cm_afgh_clff002/sourceimages/cm_afgh_clff002_v1_srm
 /Assets/tpp/common_source/environ/afghanistan/cm_afgh_clff002/sourceimages/cm_afgh_clff002_v2_bsm
 /Assets/tpp/common_source/environ/afghanistan/cm_afgh_clff002/sourceimages/cm_afgh_clff002_v3_bsm
@@ -18566,6 +18635,7 @@
 /Assets/tpp/common_source/environ/afghanistan/cm_afgh_wall026/sourceimages/cm_afgh_wall026_nrm
 /Assets/tpp/common_source/environ/afghanistan/cm_afgh_wall026/sourceimages/cm_afgh_wall026_srm
 /Assets/tpp/common_source/environ/afghanistan/cm_afgh_wall027/sourceimages/cm_afgh_a1_wall027_bsm_alp
+/Assets/tpp/common_source/environ/afghanistan/cm_afgh_wall027/sourceimages/cm_afgh_wall027_bsm_alp
 /Assets/tpp/common_source/environ/afghanistan/cm_afgh_wall027/sourceimages/cm_afgh_wall027_nrm
 /Assets/tpp/common_source/environ/afghanistan/cm_afgh_wall027/sourceimages/cm_afgh_wall027_srm
 /Assets/tpp/common_source/environ/afghanistan/cm_afgh_wall030/sourceimages/cm_afgh_wall030_c1_bsm
@@ -18732,6 +18802,7 @@
 /Assets/tpp/common_source/environ/afghanistan/cm_afgh_wall053/sourceimages/cm_afgh_wall053_v1_bsm_alp
 /Assets/tpp/common_source/environ/afghanistan/cm_afgh_wall053/sourceimages/cm_afgh_wall053_v1_srm
 /Assets/tpp/common_source/environ/afghanistan/cm_afgh_wall054/sourceimages/cm_afgh_wall054_bsm_alp
+/Assets/tpp/common_source/environ/afghanistan/cm_afgh_wall054/sourceimages/cm_afgh_wall054_nrm
 /Assets/tpp/common_source/environ/afghanistan/cm_afgh_wall054/sourceimages/cm_afgh_wall054_srm
 /Assets/tpp/common_source/environ/afghanistan/cm_afgh_wall056/sourceimages/cm_afgh_wall056_bsm
 /Assets/tpp/common_source/environ/afghanistan/cm_afgh_wall056/sourceimages/cm_afgh_wall056_nrm
@@ -18781,6 +18852,7 @@
 /Assets/tpp/common_source/environ/afghanistan/cm_afgh_wall069/sourceimages/cm_afgh_wall069_nrm
 /Assets/tpp/common_source/environ/afghanistan/cm_afgh_wall069/sourceimages/cm_afgh_wall069_sbm
 /Assets/tpp/common_source/environ/afghanistan/cm_afgh_wall069/sourceimages/cm_afgh_wall069_sn_nrm
+/Assets/tpp/common_source/environ/afghanistan/cm_afgh_wall069/sourceimages/cm_afgh_wall069_spr
 /Assets/tpp/common_source/environ/afghanistan/cm_afgh_wall069/sourceimages/cm_afgh_wall069_srm
 /Assets/tpp/common_source/environ/afghanistan/cm_afgh_wall069/sourceimages/cm_afgh_wall069_v1_bsm
 /Assets/tpp/common_source/environ/afghanistan/cm_afgh_wall070/sourceimages/cm_afgh_wall070_bsm
@@ -18796,6 +18868,7 @@
 /Assets/tpp/common_source/environ/afghanistan/cm_afgh_wall072/sourceimages/cm_afgh_wall072_nrm
 /Assets/tpp/common_source/environ/afghanistan/cm_afgh_wall072/sourceimages/cm_afgh_wall072_srm
 /Assets/tpp/common_source/environ/afghanistan/cm_afgh_wall072/sourceimages/cm_afgh_wall072_v1_bsm
+/Assets/tpp/common_source/environ/afghanistan/cm_afgh_wall072/sourceimages/cm_afgh_wall072_v1_bsm_alp
 /Assets/tpp/common_source/environ/afghanistan/cm_afgh_wall075/sourceimages/cm_afgh_wall075_bsm
 /Assets/tpp/common_source/environ/afghanistan/cm_afgh_wall075/sourceimages/cm_afgh_wall075_nrm
 /Assets/tpp/common_source/environ/afghanistan/cm_afgh_wall075/sourceimages/cm_afgh_wall075_srm
@@ -18825,6 +18898,12 @@
 /Assets/tpp/common_source/environ/afghanistan/cm_afgh_wdfm005/sourceimages/cm_afgh_wdfm005_bsm_alp
 /Assets/tpp/common_source/environ/afghanistan/cm_afgh_wdfm005/sourceimages/cm_afgh_wdfm005_nrm
 /Assets/tpp/common_source/environ/afghanistan/cm_afgh_wdfm005/sourceimages/cm_afgh_wdfm005_srm
+/Assets/tpp/common_source/environ/afghanistan/cm_afgh_wndw001/sourceimages/cm_afgh_wndw001_a1_bsm_alp
+/Assets/tpp/common_source/environ/afghanistan/cm_afgh_wndw001/sourceimages/cm_afgh_wndw001_a1_nrm
+/Assets/tpp/common_source/environ/afghanistan/cm_afgh_wndw001/sourceimages/cm_afgh_wndw001_a1_srm
+/Assets/tpp/common_source/environ/afghanistan/cm_afgh_wndw001/sourceimages/cm_afgh_wndw001_a2_bsm_alp
+/Assets/tpp/common_source/environ/afghanistan/cm_afgh_wndw001/sourceimages/cm_afgh_wndw001_a2_nrm
+/Assets/tpp/common_source/environ/afghanistan/cm_afgh_wndw001/sourceimages/cm_afgh_wndw001_a2_srm
 /Assets/tpp/common_source/environ/afghanistan/cm_afgh_wndw001/sourceimages/cm_afgh_wndw001_bsm_alp
 /Assets/tpp/common_source/environ/afghanistan/cm_afgh_wndw001/sourceimages/cm_afgh_wndw001_mtm
 /Assets/tpp/common_source/environ/afghanistan/cm_afgh_wndw001/sourceimages/cm_afgh_wndw001_nrm
@@ -22331,6 +22410,7 @@
 /Assets/tpp/common_source/flat/Pictures/cm_flat_gry128_gold_srm
 /Assets/tpp/common_source/flat/Pictures/cm_flat_gry128_silver_srm
 /Assets/tpp/common_source/flat/Pictures/cm_flat_gry152_rubber_srm
+/Assets/tpp/common_source/flat/Pictures/cm_flat_gry192
 /Assets/tpp/common_source/flat/Pictures/cm_flat_gry192_basic_srm
 /Assets/tpp/common_source/flat/Pictures/cm_flat_hnm
 /Assets/tpp/common_source/flat/Pictures/cm_flat_lambert_srm
@@ -22867,6 +22947,7 @@
 /Assets/tpp/common_source/fmtr/terrain_decal/middle_africa/cm_mafr_td_road016/sourceimages/cm_mafr_td_road016_bsm_alp
 /Assets/tpp/common_source/fmtr/terrain_decal/middle_africa/cm_mafr_td_road016/sourceimages/cm_mafr_td_road016_nrm
 /Assets/tpp/common_source/fmtr/terrain_decal/middle_africa/cm_mafr_td_road016/sourceimages/cm_mafr_td_road016_srm
+/Assets/tpp/common_source/fmtr/terrain_decal/old_mother_base/cm_afgh_td_tree009/sourceimages/cm_afgh_td_tree009_v6_spr
 /Assets/tpp/common_source/fmtr/terrain/afghanistan/cm_afgh_terr_grvl004/sourceimages/cm_afgh_terr_grvl004_bsm_v2
 /Assets/tpp/common_source/fmtr/terrain/afghanistan/cm_afgh_terr_grvl004/sourceimages/cm_afgh_terr_grvl004_nrm
 /Assets/tpp/common_source/fmtr/terrain/afghanistan/cm_afgh_terr_grvl004/sourceimages/cm_afgh_terr_grvl004_srm
@@ -23134,15 +23215,19 @@
 /Assets/tpp/common_source/mecha/special/cm_spec0_c02_bsm
 /Assets/tpp/common_source/spheremap/cm_rain0_spr
 /Assets/tpp/common_source/subnormal/asphalt/cm_snrm_asph001/sourceimages/cm_snrm_asph001_nrm
+/Assets/tpp/common_source/subnormal/asphalt/cm_snrm_asph002/sourceimages/cm_snrm_asph002_nrm
 /Assets/tpp/common_source/subnormal/cliff/cm_snrm_clff001/sourceimages/cm_snrm_clff001_nrm
 /Assets/tpp/common_source/subnormal/cloth/cm_snrm_clth001/sourceimages/cm_snrm_clth001_nrm
 /Assets/tpp/common_source/subnormal/cloth/cm_snrm_clth002/sourceimages/cm_snrm_clth002_hnm
 /Assets/tpp/common_source/subnormal/cloth/cm_snrm_clth002/sourceimages/cm_snrm_clth002_nrm
+/Assets/tpp/common_source/subnormal/cloth/cm_snrm_clth003/sourceimages/cm_snrm_clth003_nrm
+/Assets/tpp/common_source/subnormal/cloth/cm_snrm_clth004/sourceimages/cm_snrm_clth004_nrm
 /Assets/tpp/common_source/subnormal/cloth/cm_snrm_clth005/sourceimages/cm_snrm_clth005_nrm
 /Assets/tpp/common_source/subnormal/cloth/cm_snrm_clth006/sourceimages/cm_snrm_clth006_nrm
 /Assets/tpp/common_source/subnormal/cloth/cm_snrm_clth007/sourceimages/cm_snrm_cloth007_tu_hnm
 /Assets/tpp/common_source/subnormal/cloth/cm_snrm_clth007/sourceimages/cm_snrm_cloth007_tu_nrm
 /Assets/tpp/common_source/subnormal/cloth/cm_snrm_clth007/sourceimages/cm_snrm_cloth007_tv_hnm
+/Assets/tpp/common_source/subnormal/cloth/cm_snrm_clth007/sourceimages/cm_snrm_clth007_nrm
 /Assets/tpp/common_source/subnormal/concrete/cm_snrm_cncr001/sourceimages/cm_snrm_cncr001_nrm
 /Assets/tpp/common_source/subnormal/concrete/cm_snrm_cncr002/sourceimages/cm_snrm_cncr002_hnm
 /Assets/tpp/common_source/subnormal/concrete/cm_snrm_cncr002/sourceimages/cm_snrm_cocr002_nrm
@@ -26951,6 +27036,7 @@
 /Assets/tpp/environ/object/cyprus/chair/cypr_char001/sourceimages/cypr_char001_mtm
 /Assets/tpp/environ/object/cyprus/chair/cypr_char001/sourceimages/cypr_char001_nrm
 /Assets/tpp/environ/object/cyprus/chair/cypr_char001/sourceimages/cypr_char001_srm
+/Assets/tpp/environ/object/cyprus/chair/cypr_char002/sourceimages/cypr_char002_bsm
 /Assets/tpp/environ/object/cyprus/chair/cypr_char002/sourceimages/cypr_char002_srm
 /Assets/tpp/environ/object/cyprus/chair/cypr_char002/sourceimages/cypr_char002_va_bsm
 /Assets/tpp/environ/object/cyprus/chair/cypr_char002/sourceimages/cypr_char002_va_hnm
@@ -27172,6 +27258,7 @@
 /Assets/tpp/environ/object/cyprus/fence/cypr_fenc002/sourceimages/cypr_fenc002_nrm
 /Assets/tpp/environ/object/cyprus/fence/cypr_fenc002/sourceimages/cypr_fenc002_srm
 /Assets/tpp/environ/object/cyprus/flag/cypr_flag001/sourceimages/cypr_flag001_bsm
+/Assets/tpp/environ/object/cyprus/flag/cypr_flag001/sourceimages/cypr_flag001_mtm
 /Assets/tpp/environ/object/cyprus/flag/cypr_flag001/sourceimages/cypr_flag001_nrm
 /Assets/tpp/environ/object/cyprus/flag/cypr_flag001/sourceimages/cypr_flag001_srm
 /Assets/tpp/environ/object/cyprus/flower/cypr_flwr001/sourceimages/cypr_flwr001_bsm_alp
@@ -27232,6 +27319,7 @@
 /Assets/tpp/environ/object/cyprus/grass/cypr_grss003/sourceimages/cypr_grss003_bsm_alp
 /Assets/tpp/environ/object/cyprus/grass/cypr_grss004/sourceimages/cypr_grss004_bsm_alp
 /Assets/tpp/environ/object/cyprus/grass/cypr_grss005/sourceimages/cypr_grss005_bsm_alp
+/Assets/tpp/environ/object/cyprus/grass/cypr_grss006/sourceimages/cypr_grss006_bsm_alp
 /Assets/tpp/environ/object/cyprus/grass/cypr_grss007/sourceimages/cypr_grss007_bsm_alp
 /Assets/tpp/environ/object/cyprus/grass/cypr_grss008/sourceimages/cypr_grss008_bsm_alp
 /Assets/tpp/environ/object/cyprus/grass/cypr_grss008/sourceimages/cypr_grss008_nrm
@@ -27460,6 +27548,7 @@
 /Assets/tpp/environ/object/cyprus/partition/cypr_prtt001/sourceimages/cypr_prtt001_v1_bsm
 /Assets/tpp/environ/object/cyprus/partition/cypr_prtt001/sourceimages/cypr_prtt001_v1_srm
 /Assets/tpp/environ/object/cyprus/passage/cypr_pssg001/sourceimages/cypr_pssg001_dc_bsm_alp
+/Assets/tpp/environ/object/cyprus/passage/cypr_pssg002/sourceimages/cypr_pssg002_aa_spr
 /Assets/tpp/environ/object/cyprus/picture/cypr_pctr001/sourceimages/cypr_pctr001_af_bsm
 /Assets/tpp/environ/object/cyprus/picture/cypr_pctr001/sourceimages/cypr_pctr001_af_nrm
 /Assets/tpp/environ/object/cyprus/picture/cypr_pctr001/sourceimages/cypr_pctr001_af_srm
@@ -27698,6 +27787,7 @@
 /Assets/tpp/environ/object/cyprus/tree/cypr_tree002/sourceimages/cypr_tree002_trm
 /Assets/tpp/environ/object/cyprus/tree/cypr_tree003/sourceimages/cypr_tree003_bsm_alp
 /Assets/tpp/environ/object/cyprus/tree/cypr_tree003/sourceimages/cypr_tree003_lo_bsm_alp
+/Assets/tpp/environ/object/cyprus/tree/cypr_tree003/sourceimages/cypr_tree003_mtm
 /Assets/tpp/environ/object/cyprus/tree/cypr_tree003/sourceimages/cypr_tree003_nrm
 /Assets/tpp/environ/object/cyprus/tree/cypr_tree003/sourceimages/cypr_tree003_srm
 /Assets/tpp/environ/object/cyprus/tree/cypr_tree003/sourceimages/cypr_tree003_v1_bsm_alp
@@ -28007,6 +28097,7 @@
 /Assets/tpp/environ/object/guantanamo/cat_walk/gntn_ctwk001/sourceimages/gntn_ctwk001_r1_bsm
 /Assets/tpp/environ/object/guantanamo/cat_walk/gntn_ctwk001/sourceimages/gntn_ctwk001_star002_lbm
 /Assets/tpp/environ/object/guantanamo/cat_walk/gntn_ctwk001/sourceimages/gntn_ctwk001_star002_lym
+/Assets/tpp/environ/object/guantanamo/chimney/gntn_c
 /Assets/tpp/environ/object/guantanamo/chimney/gntn_chmn001/sourceimages/gntn_chmn001_bsm
 /Assets/tpp/environ/object/guantanamo/chimney/gntn_chmn001/sourceimages/gntn_chmn001_nrm
 /Assets/tpp/environ/object/guantanamo/chimney/gntn_chmn001/sourceimages/gntn_chmn001_sbm
@@ -28251,6 +28342,7 @@
 /Assets/tpp/environ/object/guantanamo/grass/gntn_grss016/sourceimages/gntn_grss016_v1_srm
 /Assets/tpp/environ/object/guantanamo/grass/gntn_grss017/sourceimages/gntn_grss017_bsm_alp
 /Assets/tpp/environ/object/guantanamo/grass/gntn_grss017/sourceimages/gntn_grss017_nrm
+/Assets/tpp/environ/object/guantanamo/grate/gntn_grat000/sourceimages/gntn_grat000_po_clp
 /Assets/tpp/environ/object/guantanamo/ground/gntn_grnd001/sourceimages/gntn_grnd001_02_lbm
 /Assets/tpp/environ/object/guantanamo/ground/gntn_grnd001/sourceimages/gntn_grnd001_lbm
 /Assets/tpp/environ/object/guantanamo/ground/gntn_grnd002/sourceimages/gntn_grnd002_lbm
@@ -28560,6 +28652,7 @@
 /Assets/tpp/environ/object/guantanamo/signboard/gntn_sgbd001/sourceimages/gntn_sgbd001_md_srm
 /Assets/tpp/environ/object/guantanamo/signboard/gntn_sgbd001/sourceimages/gntn_sgbd001_me_bsm
 /Assets/tpp/environ/object/guantanamo/signboard/gntn_sgbd001/sourceimages/gntn_sgbd001_me_srm
+/Assets/tpp/environ/object/guantanamo/signboard/gntn_sgbd001/sourceimages/gntn_sgbd001_nrm
 /Assets/tpp/environ/object/guantanamo/signboard/gntn_sgbd001/sourceimages/gntn_sgbd001_rg_bsm
 /Assets/tpp/environ/object/guantanamo/signboard/gntn_sgbd001/sourceimages/gntn_sgbd001_sbm
 /Assets/tpp/environ/object/guantanamo/signboard/gntn_sgbd001/sourceimages/gntn_sgbd001_srm
@@ -30978,6 +31071,7 @@
 /Assets/tpp/environ/object/middle_africa/wall/mafr_wall004/sourceimages/mafr_wall004_pl_nrm
 /Assets/tpp/environ/object/middle_africa/wall/mafr_wall004/sourceimages/mafr_wall004_pl_srm
 /Assets/tpp/environ/object/middle_africa/wall/mafr_wall004/sourceimages/mafr_wall004_srm
+/Assets/tpp/environ/object/middle_africa/wall/mafr_wall045/sourceimages/mafr_wall045_p2_sbm
 /Assets/tpp/environ/object/middle_africa/warehouse/mafr_wrhs001/sourceimages/mafr_wrhs001_bsm
 /Assets/tpp/environ/object/middle_africa/warehouse/mafr_wrhs001/sourceimages/mafr_wrhs001_dc_bsm_alp
 /Assets/tpp/environ/object/middle_africa/warehouse/mafr_wrhs001/sourceimages/mafr_wrhs001_dc_nrm
@@ -32590,6 +32684,9 @@
 /Assets/tpp/environ/object/mother_base/shelf/mtbs_shlf001/sourceimages/mtbs_shlf001_bsm
 /Assets/tpp/environ/object/mother_base/shelf/mtbs_shlf001/sourceimages/mtbs_shlf001_hnm
 /Assets/tpp/environ/object/mother_base/shelf/mtbs_shlf001/sourceimages/mtbs_shlf001_srm
+/Assets/tpp/environ/object/mother_base/shelf/mtbs_shlf002/sourceimages/mtbs_shlf002_bsm
+/Assets/tpp/environ/object/mother_base/shelf/mtbs_shlf002/sourceimages/mtbs_shlf002_hnm
+/Assets/tpp/environ/object/mother_base/shelf/mtbs_shlf002/sourceimages/mtbs_shlf002_srm
 /Assets/tpp/environ/object/mother_base/shelf/mtbs_shlf004/sourceimages/mtbs_shlf004_bsm
 /Assets/tpp/environ/object/mother_base/shelf/mtbs_shlf004/sourceimages/mtbs_shlf004_hnm
 /Assets/tpp/environ/object/mother_base/shelf/mtbs_shlf004/sourceimages/mtbs_shlf004_sf_bsm
@@ -33689,6 +33786,7 @@
 /Assets/tpp/item/cft/Pictures/cft0_metl0_def_bsm
 /Assets/tpp/item/cft/Pictures/cft0_metl0_def_nrm
 /Assets/tpp/item/cft/Pictures/cft0_metl0_def_srm
+/Assets/tpp/item/cft/Pictures/cft4_rain0_leg_hgm
 /Assets/tpp/item/cig/Pictures/cig0_fire0_def_bsm_alp_nomip
 /Assets/tpp/item/cig/Pictures/cig0_fire0_def_nrm
 /Assets/tpp/item/cig/Pictures/cig0_fire0_def_srm
@@ -33936,6 +34034,7 @@
 /Assets/tpp/item/pat/Pictures/pat0_main0_def_c00_bsm
 /Assets/tpp/item/pat/Pictures/pat0_main0_def_nrm
 /Assets/tpp/item/pat/Pictures/pat0_main0_def_srm
+/Assets/tpp/item/pat/Pictures/pat_bdn6_basic_dtm
 /Assets/tpp/item/pcp/Pictures/pcp0_earp0_def_c00_bsm
 /Assets/tpp/item/pcp/Pictures/pcp0_earp0_def_mtm
 /Assets/tpp/item/pcp/Pictures/pcp0_earp0_def_nrm
@@ -34565,6 +34664,7 @@
 /Assets/tpp/mecha/plv/Pictures/plv0_tire0_def_c00_bsm
 /Assets/tpp/mecha/plv/Pictures/plv0_tire0_def_nrm
 /Assets/tpp/mecha/plv/Pictures/plv0_tire0_def_srm
+/Assets/tpp/mecha/plv/ProgramData/plv
 /Assets/tpp/mecha/plv/ProgramData/plv.vpc
 /Assets/tpp/mecha/sad/Pictures/sad0_main0_def_c00_bsm
 /Assets/tpp/mecha/sad/Pictures/sad0_main0_def_lbm
@@ -34634,6 +34734,7 @@
 /Assets/tpp/mecha/sbh/Pictures/sbh0_main0_def_nrm
 /Assets/tpp/mecha/sbh/Pictures/sbh0_main0_def_srm
 /Assets/tpp/mecha/sbh/Pictures/sbh0_mark0_def_c00_bsm_alp
+/Assets/tpp/mecha/scr/Pictures/scr0_main0_def_c00_bsm
 /Assets/tpp/mecha/scr/Pictures/scr0_main0_def_c00_bsm_alp
 /Assets/tpp/mecha/scr/Pictures/scr0_main0_def_nrm
 /Assets/tpp/mecha/scr/Pictures/scr0_main0_def_srm
@@ -34662,6 +34763,7 @@
 /Assets/tpp/mecha/smt/Pictures/smt0_tire0_def_lbm
 /Assets/tpp/mecha/smt/Pictures/smt0_tire0_def_nrm
 /Assets/tpp/mecha/smt/Pictures/smt0_tire0_def_srm
+/Assets/tpp/mecha/smt/ProgramData/easternSmt
 /Assets/tpp/mecha/smt/ProgramData/easternSmt.vpc
 /Assets/tpp/mecha/the/Pictures/the0_intr0_def_c00_bsm
 /Assets/tpp/mecha/the/Pictures/the0_intr0_def_nrm
@@ -34883,6 +34985,7 @@
 /Assets/tpp/mecha/wav/Pictures/wav1_turt0_def_lbm
 /Assets/tpp/mecha/wav/Pictures/wav1_turt0_def_nrm
 /Assets/tpp/mecha/wav/Pictures/wav1_turt0_def_srm
+/Assets/tpp/mecha/wav/ProgramData/wav
 /Assets/tpp/mecha/wav/ProgramData/wav.vpc
 /Assets/tpp/mecha/whc/Pictures/whc0_main0_def_c00_bsm
 /Assets/tpp/mecha/whc/Pictures/whc0_main0_def_c01_bsm
@@ -34903,6 +35006,11 @@
 /Assets/tpp/motherbase/script/WeaponPartsCombinationSettings
 /Assets/tpp/motherbase/script/WeaponPartsUiSetting
 /Assets/tpp/motion/SI_game/fani/faces/sna0/sna0eye/sna0eye_blink_nomal
+/Assets/tpp/movie/Win/p21_030010_movie_en
+/Assets/tpp/movie/Win/p31_010055_movie_en
+/Assets/tpp/movie/Win/p31_050100_movie_en
+/Assets/tpp/movie/Win/p51_020030_01movie_en
+/Assets/tpp/movie/Win/p51_020030_02movie_en
 /Assets/tpp/pack/buddy/dog/buddy_dog2_00
 /Assets/tpp/pack/buddy/dog/buddy_dog2_01
 /Assets/tpp/pack/buddy/dog/buddy_dog2_02
@@ -49676,6 +49784,7 @@
 /Assets/tpp/pack/location/ombs/ombs
 /Assets/tpp/pack/location/ombs/pack_common/ombs_common
 /Assets/tpp/pack/location/ombs/pack_mission/base/ombs_base_01
+/Assets/tpp/pack/location/smpl/smpl
 /Assets/tpp/pack/mbdvc/gz/mb_child_window_mission_info
 /Assets/tpp/pack/mbdvc/gz/mb_dvc_gz
 /Assets/tpp/pack/mbdvc/mb_child_window_base_list
@@ -51090,6 +51199,8 @@
 /Assets/tpp/pack/player/parts/plvoice_ddm_b
 /Assets/tpp/pack/player/parts/plvoice_ddm_c
 /Assets/tpp/pack/player/parts/plvoice_ddm_d
+/Assets/tpp/pack/player/parts/plvoice_ocelot
+/Assets/tpp/pack/player/parts/plvoice_quiet
 /Assets/tpp/pack/player/parts/plvoice_snake
 /Assets/tpp/pack/player/resident/pl_resident
 /Assets/tpp/pack/resident/resident00
@@ -51098,12 +51209,20 @@
 /Assets/tpp/pack/soldier/motion/TppSoldierGzMotion
 /Assets/tpp/pack/soldier/reinforce/reinforce_heli_afgh
 /Assets/tpp/pack/soldier/reinforce/reinforce_heli_mafr
+/Assets/tpp/pack/soldier/reinforce/reinforce_veh_east_lv
 /Assets/tpp/pack/soldier/reinforce/reinforce_veh_east_tnk
+/Assets/tpp/pack/soldier/reinforce/reinforce_veh_east_trc
 /Assets/tpp/pack/soldier/reinforce/reinforce_veh_east_wav
 /Assets/tpp/pack/soldier/reinforce/reinforce_veh_east_wav_roc
+/Assets/tpp/pack/soldier/reinforce/reinforce_veh_west_lv_a
+/Assets/tpp/pack/soldier/reinforce/reinforce_veh_west_lv_b
+/Assets/tpp/pack/soldier/reinforce/reinforce_veh_west_lv_c
 /Assets/tpp/pack/soldier/reinforce/reinforce_veh_west_tnk_a
 /Assets/tpp/pack/soldier/reinforce/reinforce_veh_west_tnk_b
 /Assets/tpp/pack/soldier/reinforce/reinforce_veh_west_tnk_c
+/Assets/tpp/pack/soldier/reinforce/reinforce_veh_west_trc_a
+/Assets/tpp/pack/soldier/reinforce/reinforce_veh_west_trc_b
+/Assets/tpp/pack/soldier/reinforce/reinforce_veh_west_trc_c
 /Assets/tpp/pack/soldier/reinforce/reinforce_veh_west_wav_a
 /Assets/tpp/pack/soldier/reinforce/reinforce_veh_west_wav_b
 /Assets/tpp/pack/soldier/reinforce/reinforce_veh_west_wav_c
@@ -51279,6 +51398,7 @@
 /Assets/tpp/pack/ui/subtitles/EngVoice/EngText/h40010_subtitles
 /Assets/tpp/pack/ui/subtitles/EngVoice/EngText/h40020_subtitles
 /Assets/tpp/pack/ui/subtitles/EngVoice/EngText/h40050_subtitles
+/Assets/tpp/pack/ui/subtitles/EngVoice/EngText/mgo_player_subtitles
 /Assets/tpp/pack/ui/subtitles/EngVoice/EngText/o50050_subtitles
 /Assets/tpp/pack/ui/subtitles/EngVoice/EngText/result_subtitles
 /Assets/tpp/pack/ui/subtitles/EngVoice/EngText/reward_subtitles
@@ -51335,6 +51455,7 @@
 /Assets/tpp/pack/ui/subtitles/EngVoice/FreText/h40010_subtitles
 /Assets/tpp/pack/ui/subtitles/EngVoice/FreText/h40020_subtitles
 /Assets/tpp/pack/ui/subtitles/EngVoice/FreText/h40050_subtitles
+/Assets/tpp/pack/ui/subtitles/EngVoice/FreText/mgo_player_subtitles
 /Assets/tpp/pack/ui/subtitles/EngVoice/FreText/o50050_subtitles
 /Assets/tpp/pack/ui/subtitles/EngVoice/FreText/result_subtitles
 /Assets/tpp/pack/ui/subtitles/EngVoice/FreText/reward_subtitles
@@ -51391,6 +51512,7 @@
 /Assets/tpp/pack/ui/subtitles/EngVoice/GerText/h40010_subtitles
 /Assets/tpp/pack/ui/subtitles/EngVoice/GerText/h40020_subtitles
 /Assets/tpp/pack/ui/subtitles/EngVoice/GerText/h40050_subtitles
+/Assets/tpp/pack/ui/subtitles/EngVoice/GerText/mgo_player_subtitles
 /Assets/tpp/pack/ui/subtitles/EngVoice/GerText/o50050_subtitles
 /Assets/tpp/pack/ui/subtitles/EngVoice/GerText/result_subtitles
 /Assets/tpp/pack/ui/subtitles/EngVoice/GerText/reward_subtitles
@@ -51447,6 +51569,7 @@
 /Assets/tpp/pack/ui/subtitles/EngVoice/ItaText/h40010_subtitles
 /Assets/tpp/pack/ui/subtitles/EngVoice/ItaText/h40020_subtitles
 /Assets/tpp/pack/ui/subtitles/EngVoice/ItaText/h40050_subtitles
+/Assets/tpp/pack/ui/subtitles/EngVoice/ItaText/mgo_player_subtitles
 /Assets/tpp/pack/ui/subtitles/EngVoice/ItaText/o50050_subtitles
 /Assets/tpp/pack/ui/subtitles/EngVoice/ItaText/result_subtitles
 /Assets/tpp/pack/ui/subtitles/EngVoice/ItaText/reward_subtitles
@@ -51503,6 +51626,7 @@
 /Assets/tpp/pack/ui/subtitles/EngVoice/JpnText/h40010_subtitles
 /Assets/tpp/pack/ui/subtitles/EngVoice/JpnText/h40020_subtitles
 /Assets/tpp/pack/ui/subtitles/EngVoice/JpnText/h40050_subtitles
+/Assets/tpp/pack/ui/subtitles/EngVoice/JpnText/mgo_player_subtitles
 /Assets/tpp/pack/ui/subtitles/EngVoice/JpnText/o50050_subtitles
 /Assets/tpp/pack/ui/subtitles/EngVoice/JpnText/result_subtitles
 /Assets/tpp/pack/ui/subtitles/EngVoice/JpnText/reward_subtitles
@@ -51559,6 +51683,7 @@
 /Assets/tpp/pack/ui/subtitles/EngVoice/PorText/h40010_subtitles
 /Assets/tpp/pack/ui/subtitles/EngVoice/PorText/h40020_subtitles
 /Assets/tpp/pack/ui/subtitles/EngVoice/PorText/h40050_subtitles
+/Assets/tpp/pack/ui/subtitles/EngVoice/PorText/mgo_player_subtitles
 /Assets/tpp/pack/ui/subtitles/EngVoice/PorText/o50050_subtitles
 /Assets/tpp/pack/ui/subtitles/EngVoice/PorText/result_subtitles
 /Assets/tpp/pack/ui/subtitles/EngVoice/PorText/reward_subtitles
@@ -51615,6 +51740,7 @@
 /Assets/tpp/pack/ui/subtitles/EngVoice/RusText/h40010_subtitles
 /Assets/tpp/pack/ui/subtitles/EngVoice/RusText/h40020_subtitles
 /Assets/tpp/pack/ui/subtitles/EngVoice/RusText/h40050_subtitles
+/Assets/tpp/pack/ui/subtitles/EngVoice/RusText/mgo_player_subtitles
 /Assets/tpp/pack/ui/subtitles/EngVoice/RusText/o50050_subtitles
 /Assets/tpp/pack/ui/subtitles/EngVoice/RusText/result_subtitles
 /Assets/tpp/pack/ui/subtitles/EngVoice/RusText/reward_subtitles
@@ -51671,6 +51797,7 @@
 /Assets/tpp/pack/ui/subtitles/EngVoice/SpaText/h40010_subtitles
 /Assets/tpp/pack/ui/subtitles/EngVoice/SpaText/h40020_subtitles
 /Assets/tpp/pack/ui/subtitles/EngVoice/SpaText/h40050_subtitles
+/Assets/tpp/pack/ui/subtitles/EngVoice/SpaText/mgo_player_subtitles
 /Assets/tpp/pack/ui/subtitles/EngVoice/SpaText/o50050_subtitles
 /Assets/tpp/pack/ui/subtitles/EngVoice/SpaText/result_subtitles
 /Assets/tpp/pack/ui/subtitles/EngVoice/SpaText/reward_subtitles
@@ -51713,12 +51840,20 @@
 /Assets/tpp/pack/ui/subtitles/EngVoice/SpaText/s10240_subtitles
 /Assets/tpp/pack/ui/subtitles/EngVoice/SpaText/s10260_subtitles
 /Assets/tpp/pack/ui/subtitles/EngVoice/SpaText/s10280_subtitles
+/Assets/tpp/pack/ui/subtitles/JpnVoice/EngText/e20010_subtitles
+/Assets/tpp/pack/ui/subtitles/JpnVoice/EngText/e20020_subtitles
+/Assets/tpp/pack/ui/subtitles/JpnVoice/EngText/e20030_subtitles
+/Assets/tpp/pack/ui/subtitles/JpnVoice/EngText/e20040_subtitles
+/Assets/tpp/pack/ui/subtitles/JpnVoice/EngText/e20050_subtitles
+/Assets/tpp/pack/ui/subtitles/JpnVoice/EngText/e20060_subtitles
+/Assets/tpp/pack/ui/subtitles/JpnVoice/EngText/e20070_subtitles
 /Assets/tpp/pack/ui/subtitles/JpnVoice/EngText/f30010_subtitles
 /Assets/tpp/pack/ui/subtitles/JpnVoice/EngText/f30020_subtitles
 /Assets/tpp/pack/ui/subtitles/JpnVoice/EngText/f30050_subtitles
 /Assets/tpp/pack/ui/subtitles/JpnVoice/EngText/h40010_subtitles
 /Assets/tpp/pack/ui/subtitles/JpnVoice/EngText/h40020_subtitles
 /Assets/tpp/pack/ui/subtitles/JpnVoice/EngText/h40050_subtitles
+/Assets/tpp/pack/ui/subtitles/JpnVoice/EngText/mgo_player_subtitles
 /Assets/tpp/pack/ui/subtitles/JpnVoice/EngText/o50050_subtitles
 /Assets/tpp/pack/ui/subtitles/JpnVoice/EngText/result_subtitles
 /Assets/tpp/pack/ui/subtitles/JpnVoice/EngText/reward_subtitles
@@ -51761,12 +51896,20 @@
 /Assets/tpp/pack/ui/subtitles/JpnVoice/EngText/s10240_subtitles
 /Assets/tpp/pack/ui/subtitles/JpnVoice/EngText/s10260_subtitles
 /Assets/tpp/pack/ui/subtitles/JpnVoice/EngText/s10280_subtitles
+/Assets/tpp/pack/ui/subtitles/JpnVoice/JpnText/e20010_subtitles
+/Assets/tpp/pack/ui/subtitles/JpnVoice/JpnText/e20020_subtitles
+/Assets/tpp/pack/ui/subtitles/JpnVoice/JpnText/e20030_subtitles
+/Assets/tpp/pack/ui/subtitles/JpnVoice/JpnText/e20040_subtitles
+/Assets/tpp/pack/ui/subtitles/JpnVoice/JpnText/e20050_subtitles
+/Assets/tpp/pack/ui/subtitles/JpnVoice/JpnText/e20060_subtitles
+/Assets/tpp/pack/ui/subtitles/JpnVoice/JpnText/e20070_subtitles
 /Assets/tpp/pack/ui/subtitles/JpnVoice/JpnText/f30010_subtitles
 /Assets/tpp/pack/ui/subtitles/JpnVoice/JpnText/f30020_subtitles
 /Assets/tpp/pack/ui/subtitles/JpnVoice/JpnText/f30050_subtitles
 /Assets/tpp/pack/ui/subtitles/JpnVoice/JpnText/h40010_subtitles
 /Assets/tpp/pack/ui/subtitles/JpnVoice/JpnText/h40020_subtitles
 /Assets/tpp/pack/ui/subtitles/JpnVoice/JpnText/h40050_subtitles
+/Assets/tpp/pack/ui/subtitles/JpnVoice/JpnText/mgo_player_subtitles
 /Assets/tpp/pack/ui/subtitles/JpnVoice/JpnText/o50050_subtitles
 /Assets/tpp/pack/ui/subtitles/JpnVoice/JpnText/result_subtitles
 /Assets/tpp/pack/ui/subtitles/JpnVoice/JpnText/reward_subtitles
@@ -52196,6 +52339,11 @@
 /Assets/tpp/sound/external/tape/tp_20010_01_07
 /Assets/tpp/sound/external/tape/tp_20010_01_08
 /Assets/tpp/sound/external/tape/tp_20010_01_09
+/Assets/tpp/sound/external/tape/tp_arch_cd_01_01
+/Assets/tpp/sound/external/tape/tp_arch_cd_01_02
+/Assets/tpp/sound/external/tape/tp_arch_cd_01_03
+/Assets/tpp/sound/external/tape/tp_arch_cd_01_04
+/Assets/tpp/sound/external/tape/tp_arch_cd_01_05
 /Assets/tpp/sound/external/tape/tp_arch_diary_01_01
 /Assets/tpp/sound/external/tape/tp_arch_diary_01_02
 /Assets/tpp/sound/external/tape/tp_arch_diary_01_03
@@ -55157,6 +55305,7 @@
 /Assets/tpp/ui/texture/EquipIcon/suit/ui_st_sna0_c18_alp
 /Assets/tpp/ui/texture/EquipIcon/suit/ui_st_sna0_c19_alp
 /Assets/tpp/ui/texture/EquipIcon/suit/ui_st_sna0_c20_alp
+/Assets/tpp/ui/texture/EquipIcon/suit/ui_st_sna0_c21_alp
 /Assets/tpp/ui/texture/EquipIcon/suit/ui_st_sna0_c22_alp
 /Assets/tpp/ui/texture/EquipIcon/suit/ui_st_sna0_c23_alp
 /Assets/tpp/ui/texture/EquipIcon/suit/ui_st_sna0_c24_alp
@@ -55169,6 +55318,7 @@
 /Assets/tpp/ui/texture/EquipIcon/suit/ui_st_sna0_c31_alp
 /Assets/tpp/ui/texture/EquipIcon/suit/ui_st_sna0_c32_alp
 /Assets/tpp/ui/texture/EquipIcon/suit/ui_st_sna0_c33_alp
+/Assets/tpp/ui/texture/EquipIcon/suit/ui_st_sna0_c34_alp
 /Assets/tpp/ui/texture/EquipIcon/suit/ui_st_sna0_c35_alp
 /Assets/tpp/ui/texture/EquipIcon/suit/ui_st_sna0_c36_alp
 /Assets/tpp/ui/texture/EquipIcon/suit/ui_st_sna0_c37_alp
